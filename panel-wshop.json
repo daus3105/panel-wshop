@@ -1,0 +1,2410 @@
+{
+    "states": [
+        {
+            "name": "Johor",
+            "places": [
+                {
+                    "name": "SHIN FOK HENG WORKSHOP SDN BHD",
+                    "address": "Lot, 18341 Batu Satu, Jalan Air Hitam, Yong Peng, 83700, Yong Peng, Johor",
+                    "phone": "+607467 1825",
+                    "fax": "064674277",
+                    "email": "",
+                    "lat": "1.980849",
+                    "lon": "103.104372"
+                },
+                {
+                    "name": "YONG HUP SOON MOTOR WORKS SDN BHD",
+                    "address": "1, Jalan Budi 4, Taman Perindustrian Wawasan 2020, 83000 Batu Pahat, Johor",
+                    "phone": "07 4288727/ 074288728",
+                    "fax": "07-4288726",
+                    "email": "yhslam@pd.jaring.my",
+                    "lat": "1.788114,",
+                    "lon": "102.968057"
+                },
+                {
+                    "name": "HENG HENG WORKSHOP SDN BHD",
+                    "address": "Lot 3735, Jalan Sialang, Kampung Tengah Sialang, 84900, Tangkak, Johor",
+                    "phone": "06 9783567/ 069788568",
+                    "fax": "06-9784567",
+                    "email": "nengheng@tm.net.my",
+                    "lat": "2.271294",
+                    "lon": "102.532946"
+                },
+                {
+                    "name": "HIN YAP MOTOR SERVICES SDN BHD",
+                    "address": "No 16 Jalan Satria 17, JB Perdana Industrial Park, 81200 Johor Bharu, Johor",
+                    "phone": "07 5121199",
+                    "fax": "075121915",
+                    "email": "",
+                    "lat": "1.498418",
+                    "lon": "103.664904"
+                },
+                {
+                    "name": "FOOK HENG WELDING WORKSHOP SDN BHD",
+                    "address": "No. 9, Jalan Perdagangan 9, Taman Universiti Industrial Park, 81300, Skudai, Johor",
+                    "phone": "07 5208313",
+                    "fax": "07-5213393",
+                    "email": "fokheng@pd.jaring.my",
+                    "lat": "1.539804",
+                    "lon": "103.624126"
+                },
+                {
+                    "name": "BAN SOON ENGINEERING & MOTOR WORKSHOP SDN BHD",
+                    "address": "No 74 (Ptd 41568), Jalan Idaman 1/3, Senai Industrial Park, 81400, Senai, Johor",
+                    "phone": "07 5997681",
+                    "fax": "07-5994609",
+                    "email": "bsmotor@tm.net.my",
+                    "lat": "1.631489",
+                    "lon": "103.681022"
+                },
+                {
+                    "name": "SEGAMAT FEDERAL MOTOR (1979) SDN. BHD.",
+                    "address": "75 & 76, Segamat Industrial Area, Jalan Genuang, P.O. Box C 70, 85000, Segamat, Johor",
+                    "phone": "07 9432988/ 079432986",
+                    "fax": "07-9431019",
+                    "email": "",
+                    "lat": "2.492427",
+                    "lon": "102.865226"
+                },
+                {
+                    "name": "BENGKEL MEMATERI KENDERAAN TEK YEE SDN BHD",
+                    "address": "PTD 11769, Jalan Industri 2, Taman Perindustrian, 81500, Pekan Nenas, Johor",
+                    "phone": "07 6992207/ 076991803",
+                    "fax": "07-6996520",
+                    "email": "tekyee@yahoo.com",
+                    "lat": "1.514099",
+                    "lon": "103.517665"
+                },
+                {
+                    "name": "SENG WORKSHOP CENTRE SDN BHD",
+                    "address": "No. 1, Jalan Rusa, Taman Scientex, 81700, Pasir Gudang, Johor",
+                    "phone": "07 2893325",
+                    "fax": "07-2893315",
+                    "email": "",
+                    "lat": "1.491436",
+                    "lon": "103.910696"
+                },
+                {
+                    "name": "KAN AIK AUTOMOBILE SDN BHD",
+                    "address": "119, Batu 1 1/2, Tanjung Agas, 84000, Muar, Johor",
+                    "phone": "06 9524859",
+                    "fax": "069524859",
+                    "email": "kanaik@pd.jaring.my",
+                    "lat": "2.057974",
+                    "lon": "102.563778"
+                },
+                {
+                    "name": "ENG HONG WELDING WORKSHOP SDN BHD",
+                    "address": "Lot 738 (Pos 50), Jalan Jeram Tepi Bakri, 84000, Muar, Johor",
+                    "phone": "06 9869244",
+                    "fax": "06-9860 999",
+                    "email": "ehww@tm.net.my / chew8880@streamyx.com",
+                    "lat": "2.046767",
+                    "lon": "102.619718"
+                },
+                {
+                    "name": "SENG CHONG WELDING & SPRAYING SDN BHD",
+                    "address": "G1-G2, Jalan Mersing, 86810, Jemalung, Johor",
+                    "phone": "07 7921520",
+                    "fax": "07-792 1666",
+                    "email": "scws_m@streamyx.com",
+                    "lat": "2.264904",
+                    "lon": "103.836223"
+                },
+                {
+                    "name": "MERSING VEHICLE SERVICES SDN BHD",
+                    "address": "Plo 16, Kawasan Industri Mersing, Jalan Jemalung, 86800, Mersing, Johor",
+                    "phone": "07 7991710/ 077994071",
+                    "fax": "07-7997710",
+                    "email": "",
+                    "lat": "2.405956",
+                    "lon": "103.851266"
+                },
+                {
+                    "name": "WONG KAH KWEE WORKSHOP SDN BHD",
+                    "address": "2, Jalan Meranti 3, Taman Rinting, 81750, Masai, Johor",
+                    "phone": "07 251 3940/ 072510878",
+                    "fax": "072521468",
+                    "email": "",
+                    "lat": "1.490675",
+                    "lon": "103.879235"
+                },
+                {
+                    "name": "TOP TEN WORKSHOP SDN BHD",
+                    "address": "No PTD 37451, Jalan Kulai Kota Tinggi, 81000, Kulai, Johor",
+                    "phone": "07 6622331",
+                    "fax": "07-6638264",
+                    "email": "",
+                    "lat": "1.674198",
+                    "lon": "103.611116"
+                },
+                {
+                    "name": "LIAN HENG MOTOR SDN BHD",
+                    "address": "H-7, Jalan Air Hitam, Air Bemban, 81020, Kulai, Johor",
+                    "phone": "07 6565888",
+                    "fax": "07-6561786",
+                    "email": "lianheng@pd.jaring.my",
+                    "lat": "1.697877",
+                    "lon": "103.485825"
+                },
+                {
+                    "name": "JIN FATT WORKSHOP SDN BHD",
+                    "address": "48, (PTD 45971) Jalan Suasa 1, Taman Perindustrian Kulai, 81000, Kulai, Johor",
+                    "phone": "07 662 6199/ 076621826",
+                    "fax": "076623199",
+                    "email": "jinfatt@yahoo.com.my",
+                    "lat": "1.64461",
+                    "lon": "103.583003"
+                },
+                {
+                    "name": "HENG SLW MOTOR SDN BHD",
+                    "address": "Lot 341, No.4&5, Batu 1 1/4, Jalan Mawai, 81900 Kota Tinggi, Johor",
+                    "phone": "07 8836046",
+                    "fax": "07-8836046",
+                    "email": "hengslw88@gmail.com",
+                    "lat": "1.740565",
+                    "lon": "103.913555"
+                },
+                {
+                    "name": "BENGKEL MENGIMPAL KERETA KK SDN BHD",
+                    "address": "No. 16, Jalan Kemajuan 3, Taman Perindustrian Kota Tinggi, 81900, Kota Tinggi, Johor",
+                    "phone": "07 8834123/ 0197700123",
+                    "fax": "07-8821212",
+                    "email": "kkmotor78@hotmail.com",
+                    "lat": "1.701685",
+                    "lon": "103.878743"
+                },
+                {
+                    "name": "SOON LEE WELDER & SPRAYING WORKS SDN BHD",
+                    "address": "No. 1, Jalan Teknologi 1, Kawasan Perindustrian Mengkibol, 86000, Kluang, Johor",
+                    "phone": "077726832/ 077720000",
+                    "fax": "07-7727841",
+                    "email": "soonleewelder@yahoo.com",
+                    "lat": "2.008505,",
+                    "lon": "103.280529"
+                },
+                {
+                    "name": "KLUANG WELDING SDN BHD",
+                    "address": "N0. 17, Jalan Bangau, Happy Valley, 86000, Kluang, Johor",
+                    "phone": "07 7723106",
+                    "fax": "07-7713614",
+                    "email": "",
+                    "lat": "2.040647",
+                    "lon": "103.341102"
+                },
+                {
+                    "name": "SOON & MING MOTOR SDN BHD",
+                    "address": "No 44, Jalan Mutiara Emas 6/4, Taman Mount Austin, 81100, Johor Bahru, Johor",
+                    "phone": "07 3535673/ 073532673",
+                    "fax": "6073537673",
+                    "email": "soonmingmotorsb@gmail.com",
+                    "lat": "1.543163",
+                    "lon": "103.777854"
+                },
+                {
+                    "name": "SIN HENG AUTO WORKS SDN BHD",
+                    "address": "No. 6, Jalan Permatang 17, Taman Desa Jaya, 81100, Johor Bahru, Johor",
+                    "phone": "07 3560010",
+                    "fax": "07-3560012",
+                    "email": "sinong@pd.jaring.my;  \r\nsinheng_workshop@hotmail.com",
+                    "lat": "1.559571",
+                    "lon": "103.801871"
+                },
+                {
+                    "name": "NEW WAY MOTOR WORKSHOP SDN BHD",
+                    "address": "3, Jalan Seroja 47 Taman Johor Jaya, 81000, Johor Bahru, Johor",
+                    "phone": "07 3535003",
+                    "fax": "07-3579363",
+                    "email": "newway003@yahoo.com",
+                    "lat": "1.533852",
+                    "lon": "103.804325"
+                },
+                {
+                    "name": "NANMAR MOTOR SERVICE SDN BHD",
+                    "address": "No. 32, Jalan Seroja 37, Taman Johor Jaya, 81000, Johor Bahru, Johor",
+                    "phone": "07 3557952/ 073518890",
+                    "fax": "07-3557253",
+                    "email": "nanmarms@tm.net.my",
+                    "lat": "1.528673",
+                    "lon": "103.811306"
+                },
+                {
+                    "name": "KU MOTOR WORKSHOP SDN BHD",
+                    "address": "No.1, 3, 7 & 9, Jalan Permatang 2, Taman Desa Jaya, 81100, Johor Bahru, Johor",
+                    "phone": "07 3536713",
+                    "fax": "6073538058",
+                    "email": "kumotor@gmail.com",
+                    "lat": "1.555941",
+                    "lon": "103.801768"
+                },
+                {
+                    "name": "AH KUM MOTOR WORKSHOP SDN. BHD.",
+                    "address": "10, 12, 32, Jalan Mutiara Emas 7/4, Taman Mount Austin, 81000, Johor Bahru, Johor",
+                    "phone": "07 3545672/ 073545673",
+                    "fax": "07-3545670",
+                    "email": "ahkumotor@hotmail.com",
+                    "lat": "1.545529",
+                    "lon": "103.769794"
+                },
+                {
+                    "name": "BATU PAHAT SIN HUAT MOTOR CAR & CRANE SDN BHD",
+                    "address": "No. 31, Jalan Kluang, 83000, Batu Pahat, Johor",
+                    "phone": "07 4341218",
+                    "fax": "07-4329218",
+                    "email": "bpsh@po.jaring.my",
+                    "lat": "1.846069",
+                    "lon": "102.937843"
+                },
+                {
+                    "name": "JNJ AUTOMOBIL SDN BHD",
+                    "address": "Lot 1554, Batu 45, Jalan Johor 86200 Simpang Renggam, Johor",
+                    "phone": "07 7599898",
+                    "fax": "018-5958366",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "PINTAR WORKSHOP SDN BHD",
+                    "address": "Lot 4611, Jalan Bistari 1, Bindu, Tokong Pechah, 83010 Batu Pahat Johor",
+                    "phone": "07 4153633/ 074152833",
+                    "fax": "",
+                    "email": "pintarworkshop@yahoo.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "LB AUTOMOBILE SDN BHD",
+                    "address": "PTD 3995, Kampung Sungai Karas, 85300 Labis, Johor",
+                    "phone": "07 9256811",
+                    "fax": "079256811",
+                    "email": "lbautomobilesb@gmail.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "HEEN FATT MOTOR & WELDING WORKS SDN BHD",
+                    "address": "138, Kawasan Perindustrian Jalan Genuang, Segamat, 85000, Segamat, Johor, 85000, Malaysia",
+                    "phone": "60 7-943 1767",
+                    "fax": "",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "Radico Trading Sdn Bhd",
+                    "address": "No.40, Jalan Dedap 13, Taman Johor Jaya,  81100, Johor Bharu, Johor Darul Takzim",
+                    "phone": "07-3544715",
+                    "fax": "07-3582248",
+                    "email": "radicotrd@gmail.com",
+                    "lat": "",
+                    "lon": ""
+                }
+            ]
+        },
+        {
+            "name": "Kedah",
+            "places": [
+                {
+                    "name": "U-LEK MOTOR ( SG.PETANI ) SDN BHD",
+                    "address": "No 5, Jalan Raya, Padang Temusu, Sungai Pasir, 08000 Sungai Petani, Kedah",
+                    "phone": "04 4312679/ 044311039",
+                    "fax": "044312108",
+                    "email": "uleksp@ulek.com.my",
+                    "lat": "5.676506",
+                    "lon": "100.484618"
+                },
+                {
+                    "name": "L.L.S. MOTOR WORKSHOP SDN BHD",
+                    "address": "A-16, Jalan Fairuz 9/2 Taman Perusahaan Bakar Arang, 08000, Sungai Petani, Kedah",
+                    "phone": "04 4211430",
+                    "fax": "04-4310285",
+                    "email": "llsmwsb@hotmail.com",
+                    "lat": "5.618749",
+                    "lon": "100.471153"
+                },
+                {
+                    "name": "SYT WAH HOCK MOTOR SDN BHD",
+                    "address": "180, Simpang Tiga Keladi, 09000 Kulim, Kedah",
+                    "phone": "04 4907370",
+                    "fax": "04-4953237",
+                    "email": "wahhock2@gmail.com",
+                    "lat": "5.383701",
+                    "lon": "100.556385"
+                },
+                {
+                    "name": "JERAI WORKSHOP SERVICE (M) SDN BHD",
+                    "address": "Lot 3, Pt 9485 Jalan Pejabat Lebuhraya, 08300, Gurun, Kedah",
+                    "phone": "04 4681443/ 044682466",
+                    "fax": "04-4681448",
+                    "email": "jwsmsb@tm.net.my",
+                    "lat": "5.819291",
+                    "lon": "100.488837"
+                },
+                {
+                    "name": "MOTORLEAD AUTO SERVICES SDN BHD",
+                    "address": "Lot 745, Kg Ketumba Kuala Pegang, 09110, Baling, Kedah",
+                    "phone": "04 4765301",
+                    "fax": "04-4765505",
+                    "email": "tllimkp@tm.net.my",
+                    "lat": "5.624963",
+                    "lon": "100.797576"
+                },
+                {
+                    "name": "JUTA OVEN SPRAY PAINTING SDN BHD",
+                    "address": "389 & 390 Taman Bandar Baru Mergong, Lebuhraya Sultanah Bahiyah, 05150 Alor Setar, Kedah",
+                    "phone": "04 733 5715",
+                    "fax": "04-7339668",
+                    "email": "jutar@pd.jaring.my",
+                    "lat": "6.117945",
+                    "lon": "100.344358"
+                },
+                {
+                    "name": "BENGKEL MOTOR INDAH SDN BHD",
+                    "address": "272, Lorong Perak 12, Mergong Industrial Estate, 05150 Alor Setar Kedah",
+                    "phone": "04 7330392/ 047327707",
+                    "fax": "6047302131",
+                    "email": "bmindah@hotmail.com",
+                    "lat": "6.136693",
+                    "lon": "100.358799"
+                },
+                {
+                    "name": "AS LEAN HUAT AUTO REPAIR & TRADING SDN BHD",
+                    "address": "Lot 1562 Batu 4 1/4, Jalan Simpang Empat, 05400, Alor Setar, Kedah",
+                    "phone": "04 7641180",
+                    "fax": "6047643010",
+                    "email": "asleanhuat@gmail.com",
+                    "lat": "6.062118",
+                    "lon": "100.368572"
+                }
+            ]
+        },
+        {
+            "name": "Kelantan",
+            "places": [
+                {
+                    "name": "TM HING MOTOR SDN BHD",
+                    "address": "Lot 6091, Batu 2 1/2, Jalan Pasir Mas, Bukit Merah, 17500 Tanah Merah, Kelantan",
+                    "phone": "09 9552222/ 099554222",
+                    "fax": "6099557073",
+                    "email": "hingmotor@hotmail.com",
+                    "lat": "5.80744",
+                    "lon": "102.151025"
+                },
+                {
+                    "name": "MACHANG EKONOMIKA WORKSHOP SDN BHD",
+                    "address": "Lot 1004, Kampung Membunga Simpang 4, 18500 Machang, Kelantan",
+                    "phone": "09 9751468",
+                    "fax": "09 9751468",
+                    "email": "",
+                    "lat": "5.761056",
+                    "lon": "102.21924"
+                },
+                {
+                    "name": "PERTAMA WORKSHOP SDN BHD",
+                    "address": "Lot 774, Kampung Tok Bok, Sg. Durian, 18020, Kuala Krai, Kelantan",
+                    "phone": "09 966 7194/ 099664129",
+                    "fax": "6099664129",
+                    "email": "pertamaworkshopkk@gmail.com",
+                    "lat": "5.467239",
+                    "lon": "102.231964"
+                },
+                {
+                    "name": "WMI HARMONY SDN. BHD.",
+                    "address": "Lot 2022-2024 Kampung Panji,Jalan Perempuan Zainab II, 15200, Kota Bharu, Kelantan",
+                    "phone": "0139552020/ 0199552020/ 0139802020",
+                    "fax": "6097648488",
+                    "email": "wmiharmonysdnbhd.wmi20@gmail.com",
+                    "lat": "6.086983",
+                    "lon": "102.276253"
+                },
+                {
+                    "name": "SIM MOTOR WORKSHOP (KB) SDN BHD",
+                    "address": "Lot 1683, Mukim Tapang Panji, Pengkalan Chepa, 16100, Kota Bharu, Kelantan",
+                    "phone": "09 7730199",
+                    "fax": "6097744199",
+                    "email": "loo68@live.com",
+                    "lat": "6.1306",
+                    "lon": "102.2725"
+                },
+                {
+                    "name": "SH KOTA BHARU WORKSHOP SDN BHD",
+                    "address": "Lot 2743, Batu 5 1/2, Kampong Tunjong, Jalan Kuala Krai, 16010, Kota Bharu, Kelantan",
+                    "phone": "09 7126026",
+                    "fax": "6097126384",
+                    "email": "sh_kotabharu@yahoo.com",
+                    "lat": "6.099931",
+                    "lon": "102.240232"
+                },
+                {
+                    "name": "K.B.HUP SOON MOTORS SDN BHD",
+                    "address": "Lot 44, Kawasan Miel, Lundang, Jalan Sultan Yahya Petra, 15200, Kota Bharu, Kelantan",
+                    "phone": "09 7441607",
+                    "fax": "097432848",
+                    "email": "",
+                    "lat": "6.100828",
+                    "lon": "102.259668"
+                },
+                {
+                    "name": "DIT SOON HENG AUTO SERVICES SDN BHD",
+                    "address": "PT 4467, Taman Gua Musang 18300 Gua Musang, Kelantan",
+                    "phone": "039126333",
+                    "fax": "099126333",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                }
+            ]
+        },
+        {
+            "name": "Melaka",
+            "places": [
+                {
+                    "name": "UNI K.S MUDGUARD SDN BHD",
+                    "address": "No. 7, Jalan Berkat 13, Taman Malim Jaya, 75250, Melaka",
+                    "phone": "06 3353091",
+                    "fax": "063353091",
+                    "email": "skngoh@pdjaring.my",
+                    "lat": "2.241419",
+                    "lon": "102.238073"
+                },
+                {
+                    "name": "TH TING AUTO WORKSHOP SDN. BHD.",
+                    "address": "No 15, Jalan Suria 3, Taman Malim Jaya, 75250,  Malim Jaya,Melaka",
+                    "phone": "063363168",
+                    "fax": "063355102",
+                    "email": "thtingauto@gmail.com",
+                    "lat": "2.234918",
+                    "lon": "102.233812"
+                },
+                {
+                    "name": "SOON-LY AUTO SDN BHD",
+                    "address": "37 & 39, Jalan Suria 1, Taman Malim Jaya, 75250, Melaka",
+                    "phone": "06 3350490",
+                    "fax": "6063353178",
+                    "email": "soon_lyauto@yahoo.com.my",
+                    "lat": "2.234128",
+                    "lon": "102.234424"
+                },
+                {
+                    "name": "KIAN LEE FATT MOTOR (MELAKA) SDN BHD",
+                    "address": "6A, Lot 17, Berkat 10, Taman Malim Jaya, 75250, Melaka",
+                    "phone": "06 3353232",
+                    "fax": "6063345821",
+                    "email": "klfmmelaka@gmail.com",
+                    "lat": "2.239786",
+                    "lon": "102.236119"
+                },
+                {
+                    "name": "M.K LIM MOTOR WORKSHOP SDN BHD",
+                    "address": "2723, Kawasan Industri Ringan, Taman Maju, 77000, Jasin, Melaka",
+                    "phone": "06 5291391",
+                    "fax": "6065295323",
+                    "email": "mklimmotor@yahoo.com",
+                    "lat": "2.292669",
+                    "lon": "102.413026"
+                },
+                {
+                    "name": "ANG SOON AUTO WORKSHOP SDN BHD",
+                    "address": "NO 1 & 3, JALAN BERKAT 7, TAMAN MALIM JAYA, 75250 MELAKA",
+                    "phone": "06-335 0891",
+                    "fax": "06-335 0891",
+                    "email": "angsoonspray@hotmail.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "SMAG MOTOR SDN BHD",
+                    "address": "No. 2226, Taman IKS Jalan Paya Datok, 78000 Alor Gajah, Melaka",
+                    "phone": "06 5561454",
+                    "fax": "06-5560878",
+                    "email": "keekok@tm.net.my",
+                    "lat": "2.392475",
+                    "lon": "102.205434"
+                },
+                {
+                    "name": "C H EE AUTO WORKSHOP SDN BHD",
+                    "address": "2, Jalan Suria 6, Taman Malim Jaya, 75250 Melaka",
+                    "phone": "063363636/ 053363888",
+                    "fax": "063350913",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "SOON TAI TOWING & SERVICE CENTRE SDN BHD",
+                    "address": "Lot 1697, Jalan Seri Emas 38, Taman Seri Telok Mas, 75460 Melaka",
+                    "phone": "0146600360",
+                    "fax": "062618700",
+                    "email": "stt_71@yahoo.com.my",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "BUMIRAYA MOTOR SDN BHD",
+                    "address": "14 & 16, Jalan Suria 9, Taman Malim Jaya, 75250 Melaka.\r\n204 & 205, Jalan Suria 9, Taman Malim Jaya, 75250 Melaka\r\n75250 Melaka",
+                    "phone": "06-3347511",
+                    "fax": "06-3347591",
+                    "email": "bumiraya@bungaraya.biz",
+                    "lat": "",
+                    "lon": ""
+                }
+            ]
+        },
+        {
+            "name": "Negeri Sembilan",
+            "places": [
+                {
+                    "name": "TAMPIN MOTOR SDN BHD",
+                    "address": "No 6000, Pt 1258, Industri Kecil Repah, Batu 2 1/2 Jln Gemas, 73000, Tampin, Negeri Sembilan",
+                    "phone": "06 441 6699/ 064419966",
+                    "fax": "06 4414209",
+                    "email": "tampinmotor@yahoo.com",
+                    "lat": "2.585975",
+                    "lon": "102.625635"
+                },
+                {
+                    "name": "SOON SENG AUTOMOBILE SDN BHD",
+                    "address": "Lot PT 16721, Jalan Permata 1/6, Arab Malaysian Industrial Park, 71800 Nilai, Negeri Sembilan",
+                    "phone": "06 6772959/ 067999425",
+                    "fax": "06 6777835",
+                    "email": "",
+                    "lat": "2.665932",
+                    "lon": "101.994836"
+                },
+                {
+                    "name": "PETRI SEREMBAN AUTOMOBIL SDN BHD",
+                    "address": "No.2580, Taman Rasah Jaya, 70300, Seremban, Negeri Sembilan",
+                    "phone": "06 6315008",
+                    "fax": "06 6322028",
+                    "email": "sps@petrisbn.com.my",
+                    "lat": "2.684978",
+                    "lon": "101.938695"
+                },
+                {
+                    "name": "NEW WEE SENG MOTOR SDN BHD",
+                    "address": "83A, Lorong 3/2, Senawang Industrial Estate, 70450, Seremban, Negeri Sembilan",
+                    "phone": "06 6774001",
+                    "fax": "06 6778300",
+                    "email": "weesengmotor@yahoo.com",
+                    "lat": "2.699314",
+                    "lon": "101.972622"
+                },
+                {
+                    "name": "FUNG CHAN MOTOR SDN BHD",
+                    "address": "No 59, Jalan Lombong Emas 5, Seremban Light Industrial Park, Jalan Tun Dr. Ismail, 70200, Seremban, Negeri Sembilan",
+                    "phone": "06 7677797",
+                    "fax": "67677846",
+                    "email": "fcm5961@yahoo.com",
+                    "lat": "2.751742",
+                    "lon": "101.915439"
+                },
+                {
+                    "name": "CHEE KONG MOTOR SDN BHD",
+                    "address": "Pt 2103 & 2104, S.H(D) 71923, Sri Senawang Light Industrial Centre, 70450, Seremban, Negeri Sembilan",
+                    "phone": "06 6773889",
+                    "fax": "06 6771350",
+                    "email": "choywan@cheekongmotor.com.my",
+                    "lat": "2.675761",
+                    "lon": "101.985615"
+                },
+                {
+                    "name": "THIAN WAH MOTOR SDN BHD",
+                    "address": "54 & 55, Jalan Industri 3, Taman Perindustrian Lukut Indah, 71010 Lukut, Port Dickson, Negeri Sembilan",
+                    "phone": "06 6511841",
+                    "fax": "06 6512688",
+                    "email": "thianwah1689@gmail.com",
+                    "lat": "2.573339",
+                    "lon": "101.83047"
+                },
+                {
+                    "name": "LAI HON MING MOTORS (M) SDN BHD",
+                    "address": "Pt 3319, Lorong AM6, Arab Malaysia Industrial Park, 71800, Nilai, Negeri Sembilan",
+                    "phone": "06 7992299",
+                    "fax": "06 7996699",
+                    "email": "lhmmotors@gmail.com",
+                    "lat": "2.866952",
+                    "lon": "101.81325"
+                },
+                {
+                    "name": "SUEN FATT WORKSHOP SDN BHD",
+                    "address": "No 1, Batu 9, Jalan Besar, 71700, Mantin, Negeri Sembilan",
+                    "phone": "06 7586333/ 067587333/ 067581364",
+                    "fax": "06 7582821",
+                    "email": "yap@suenfatt.com",
+                    "lat": "2.82381",
+                    "lon": "101.8931"
+                },
+                {
+                    "name": "CHEN-LI AUTO BUILDER SDN BHD",
+                    "address": "Lot PT 8612, Jalan Labu, Galla Industrial Park, Batu 4, 70200 Labu, Negeri Sembilan",
+                    "phone": "067653702",
+                    "fax": "067653708",
+                    "email": "munchaiw@tm.net.my",
+                    "lat": "2.715469",
+                    "lon": "102.001273"
+                },
+                {
+                    "name": "SYARIKAT ENG HUP CAR SERVICE CENTRE SDN BHD",
+                    "address": "No 62A, Jalan Bahau (Gentam), 72000, Kuala Pilah, Negeri Sembilan, Malaysia",
+                    "phone": "06 4814589",
+                    "fax": "06 4813010",
+                    "email": "enghupkp@hotmail.com",
+                    "lat": "2.74444",
+                    "lon": "102.24878"
+                },
+                {
+                    "name": "MOTOR JEMPOL SDN BHD",
+                    "address": "Lot 2914, Batu 1 1/2, Jalan Kuala Pilah, 72100 Bahau Negeri Sembilan",
+                    "phone": "06 4541428",
+                    "fax": "06 4545178",
+                    "email": "mjempol@hotmail.com",
+                    "lat": "2.803827",
+                    "lon": "102.388458"
+                },
+                {
+                    "name": "BENGKEL PERTAMA (M) SDN BHD",
+                    "address": "Lot 2151, Sri Senawang Light Ind, 4 1/2 Miles, Jalan Tampin, Mukim Rantau, 70450 Seremban, Negeri Sembilan",
+                    "phone": "066773928/ 066779590",
+                    "fax": "066774928",
+                    "email": "bpertama2151@gmail.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "RANTAU WY AUTO WORKSHOP SDN BHD",
+                    "address": "No 47, Jalan S2 C2, Green Technology Park, 70300 Seremban 2, Negeri Sembilan",
+                    "phone": "06-6016926/ 0126186004",
+                    "fax": "06-6016925",
+                    "email": "wyautos@yahoo.com",
+                    "lat": "",
+                    "lon": ""
+                }
+            ]
+        },
+        {
+            "name": "Perak",
+            "places": [
+                {
+                    "name": "SNS Kembara Utama Sdn Bhd",
+                    "address": "Lot 11855, Jalan Tun Abdul Razak, 30100 Ipoh",
+                    "phone": "05-529 3989/012-5181771",
+                    "fax": "05-529 3986",
+                    "email": "syednasrul@hotmail.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "Pooh Hui Paint Spraying Workshop Sdn Bhd",
+                    "address": "No 99, Kampung Bintang,32000 Sitiawan,Perak",
+                    "phone": "05-6927169",
+                    "fax": "05-6910803",
+                    "email": "poohkuiworkshop@hotmail.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "ENG HUAT ANSON SDN BHD",
+                    "address": "Lot 7470, Batu 3 1/2, Jalan Changkat Jong, 36000, Teluk Intan, Perak",
+                    "phone": "05 6221742",
+                    "fax": "056233596",
+                    "email": "enghuat07@yahoo.com.my",
+                    "lat": "4.018594",
+                    "lon": "101.027069"
+                },
+                {
+                    "name": "T.M. WONG WORKSHOP SDN BHD",
+                    "address": "Lot 4599. Jalan Slim Baru, 35900, Tanjong Malim, Perak, Malaysia",
+                    "phone": "05 4599822/ 054583695",
+                    "fax": "60054595893",
+                    "email": "tmwong1995@gmail.com",
+                    "lat": "3.682216",
+                    "lon": "101.52143"
+                },
+                {
+                    "name": "PEMBAIKI KERETA CHIN HONG SDN BHD",
+                    "address": "Lot 1282, Jalan Kuala Kangsar, Simpang, 34700, Taiping, Perak",
+                    "phone": "05 8479484",
+                    "fax": "05-847 0484",
+                    "email": "",
+                    "lat": "4.818534",
+                    "lon": "100.707882"
+                },
+                {
+                    "name": "LAI AAN MOTOR SDN BHD",
+                    "address": "No 201-203, Jalan Unta, Kawasan Rumah Hijau, 34000, Taiping, Perak",
+                    "phone": "05 8065555/ 058089942",
+                    "fax": "058069942",
+                    "email": "laiaanmotor@yahoo.com",
+                    "lat": "4.210484",
+                    "lon": "101.975766"
+                },
+                {
+                    "name": "SLIM MOTOR WORKSHOP (M) SDN BHD",
+                    "address": "Pt 2562, Bandar Baru Slim River, 35800, Slim River, Perak",
+                    "phone": "05 4529220",
+                    "fax": "6054520335",
+                    "email": "",
+                    "lat": "3.826667",
+                    "lon": "101.401944"
+                },
+                {
+                    "name": "HEAP LEE MOTOR SDN BHD",
+                    "address": "Lot Q5A, Lumut Port Industrial Park, Jalan Besar, Kampung Acheh, 32000, Sitiawan, Perak",
+                    "phone": "05 691 3972/ 056910325",
+                    "fax": "56921152",
+                    "email": "heaplee@hotmail.com",
+                    "lat": "4.244872",
+                    "lon": "100.668924"
+                },
+                {
+                    "name": "HAK SOON SPRAY PAINTING WORKSHOP (M) SDN BHD",
+                    "address": "Lot 0-5, Lorong Hock Chew, Lumut Port Industrial Park, Kampung Acheh, 32000, Sitiawan, Perak, Malaysia",
+                    "phone": "05 6912094/ 056912068",
+                    "fax": "6056912568",
+                    "email": "",
+                    "lat": "4.209192",
+                    "lon": "100.699601"
+                },
+                {
+                    "name": "SOON THIAM MOTOR SDN BHD",
+                    "address": "Pt 2477, Taman Industri Maju Perak, 36700, Langkap, Perak",
+                    "phone": "05 6592389/ 056592089",
+                    "fax": "6056594560",
+                    "email": "soonthiammotor@hotmail.com",
+                    "lat": "4.077974",
+                    "lon": "101.138763"
+                },
+                {
+                    "name": "BENGKEL MOTOR KOK KEN SDN BHD",
+                    "address": "No. 1, Laluan Industri Lahat 5, Kawasan Perindustrian Rima, 31500, Ipoh, Perak",
+                    "phone": "05 3222859",
+                    "fax": "053229691",
+                    "email": "bmkkipoh@gmail.com",
+                    "lat": "4.510714",
+                    "lon": "101.12915"
+                },
+                {
+                    "name": "SYARIKAT BAH BAH MOTORS SDN BHD",
+                    "address": "Lot 2469, Jalan Sultan Iskandar Shah, Kampung Bendang Panjang, 33000 Kuala Kangsar, Perak",
+                    "phone": "05 7761287/ 057764735",
+                    "fax": "6057774978",
+                    "email": "bahbahmotors@gmail.com",
+                    "lat": "4.752189",
+                    "lon": "100.923087"
+                },
+                {
+                    "name": "SUN HUP LEAK WORKSHOP SDN BHD",
+                    "address": "No.43 (Pt5122) Jalan Industri 2, Kawasan Perindustrian Taman Bandar Baru, 31900, Kampar, Perak",
+                    "phone": "05 4665588/ 054665858",
+                    "fax": "054658137",
+                    "email": "shleak88@yahoo.com",
+                    "lat": "4.32249",
+                    "lon": "101.136532"
+                },
+                {
+                    "name": "TRUE RESULTS SDN BHD",
+                    "address": "No.6, Perindustrian Hala Rapat Baru 21, Kawasan Perindustrian Ringan Kinta Jaya, 31360, Ipoh, Perak",
+                    "phone": "05 3125868",
+                    "fax": "6053112868",
+                    "email": "trueresults04@yahoo.com",
+                    "lat": "4.564623",
+                    "lon": "101.110909"
+                },
+                {
+                    "name": "LWS MOTOR SDN BHD (FORMERLY KNOWN AS LIM WING SANG MOTOR SDN BHD)",
+                    "address": "3 & 5, Persiaran Industrial Rapat 1, Perindustrian Ringan Sri Rapat, Taman Taufik, 31350, Ipoh, Perak",
+                    "phone": "05 3131111",
+                    "fax": "6053128311",
+                    "email": "limwingsang@gmail.com",
+                    "lat": "4.553356",
+                    "lon": "101.104118"
+                },
+                {
+                    "name": "LAU MOTOR WORKSHOP MENGLEMBU (PK) SDN BHD",
+                    "address": "Lot 34627, Jalan Hala Perusahaan Menglembu 15, 30200, Ipoh, Perak",
+                    "phone": "05 2826666",
+                    "fax": "52816326",
+                    "email": "laumotor@gmail.com",
+                    "lat": "4.565473551",
+                    "lon": "101.1621094"
+                },
+                {
+                    "name": "KHEEN MUN MOTOR WORKSHOP SDN BHD",
+                    "address": "Plot 178, Hala Perusahaan Menglembu 1, 30200, Ipoh, Perak",
+                    "phone": "05 2811111/ 052825376",
+                    "fax": "6052825375",
+                    "email": "kheenmun@gmail.com",
+                    "lat": "4.578575",
+                    "lon": "101.062189"
+                },
+                {
+                    "name": "IPOH SOO KEE MOTORS SDN BHD",
+                    "address": "No 9, Hala Perusahaan Menglembu 4, 31450, Ipoh, Perak",
+                    "phone": "05 2822501",
+                    "fax": "52827202",
+                    "email": "iskmsb@gmail.com",
+                    "lat": "4.574607",
+                    "lon": "101.063511"
+                },
+                {
+                    "name": "G.F. (M) ENGINEERING SDN BHD",
+                    "address": "Pt 160880 & 160881, Persiaran Klebang 1, Kawasan Perusahaan JGB, Jalan Kuala Kangsar, Ipoh, 31200, Chemor, Perak",
+                    "phone": "52922116",
+                    "fax": "052917075",
+                    "email": "marketing@gf1980.com",
+                    "lat": "4.676995",
+                    "lon": "101.120868"
+                },
+                {
+                    "name": "FAH KEE MOTOR SDN BHD",
+                    "address": "Lot 41319, Jalan Bercham, Kawasan Perusahaan Bercham, 31400, Ipoh, Perak",
+                    "phone": "05 5468999",
+                    "fax": "055473220",
+                    "email": "fahkeemotor@gmail.com",
+                    "lat": "4.656523",
+                    "lon": "101.135931"
+                },
+                {
+                    "name": "GOPENG WENG KIEN MOTOR SDN BHD",
+                    "address": "Lot 33, Gopeng Industrial Park, Phase 3, 31600, Gopeng, Perak",
+                    "phone": "05 357 3388",
+                    "fax": "053573366",
+                    "email": "gwkm_4099@yahoo.com.my",
+                    "lat": "4.488542",
+                    "lon": "101.140287"
+                },
+                {
+                    "name": "GERIK JET SET WORKSHOP SDN BHD",
+                    "address": "Lot 11883, Jalan Intan P.O. Box 3, 33300 Gerik, Perak",
+                    "phone": "05 7912790/ 057910933",
+                    "fax": "57912531",
+                    "email": "jetsetgerik@gmail.com",
+                    "lat": "5.430634",
+                    "lon": "101.130182"
+                },
+                {
+                    "name": "YEW NEAN MOTOR (BIDOR) SDN BHD",
+                    "address": "Lot 10364, Batu 1 1/2 Kawasan Perindustrian Bidor, Jalan Sungkai, 35500 Bidor Perak",
+                    "phone": "054346333/ 054348333/ 054349333",
+                    "fax": "054347333",
+                    "email": "unionmtr88@gmail.com; unionmtr@yahoo.com",
+                    "lat": "4.091234",
+                    "lon": "101.284425"
+                },
+                {
+                    "name": "HAUP SING TRADING SDN. BHD.",
+                    "address": "Lot 22256, Batu 2, Jalan Jelapang, 30020 Ipoh, Perak",
+                    "phone": "055263385/ 055261532",
+                    "fax": "055267633",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "HEE YAU TUCK & SONS MOTOR SDN BHD",
+                    "address": "Lot 33261, Batu 17, Jalan Beruas, 32400, Ayer Tawar, Perak",
+                    "phone": "056722001",
+                    "fax": "056728001",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                }
+            ]
+        },
+        {
+            "name": "Pahang",
+            "places": [
+                {
+                    "name": "SIN FATT HING MUDGUARD & SPRAYING SDN BHD",
+                    "address": "No 39, Batu 2, Jalan Temerloh, 28300, Triang, Pahang",
+                    "phone": "09 250 5299",
+                    "fax": "92505704",
+                    "email": "sinfatthing@yahoo.com",
+                    "lat": "3.152583",
+                    "lon": "102.255359"
+                },
+                {
+                    "name": "CHOW TOWING SDN BHD",
+                    "address": "No 5, Kawasan Perindustrian, Batu 2, Jalan Temerloh, 28300, Triang, Pahang",
+                    "phone": "09 255 3333",
+                    "fax": "6092553758",
+                    "email": "chowtrading@gmail.com",
+                    "lat": "3.237361",
+                    "lon": "102.415372"
+                },
+                {
+                    "name": "WENG HUAT MOTOR WORKSHOP SDN BHD",
+                    "address": "Lot 1392, Batu 3, Jalan Mentakab, 28000, Temerloh, Pahang",
+                    "phone": "09 2771677",
+                    "fax": "09-277 2699",
+                    "email": "",
+                    "lat": "3.486187",
+                    "lon": "102.328345"
+                },
+                {
+                    "name": "SIONG FATT MUDGUARD WORKSHOP SDN BHD",
+                    "address": "No 6, Jalan Industri 1, Tmn Perindustrian Temerloh. 28400, Mentakab, Pahang",
+                    "phone": "09 2783928/ 092781625",
+                    "fax": "092770585",
+                    "email": "sfmwsb2020@gmail.com",
+                    "lat": "3.264735",
+                    "lon": "102.244927"
+                },
+                {
+                    "name": "A'HENG AUTO SERVICES SDN BHD",
+                    "address": "No 66, Jalan Industri, Taman Perindustrian Temerloh, 28400, Mentakab, Pahang",
+                    "phone": "09 2772199",
+                    "fax": "6092773199",
+                    "email": "hmw84923@hotmail.com",
+                    "lat": "3.447967",
+                    "lon": "102.347819"
+                },
+                {
+                    "name": "SY WONG MUDGUARD SPRAYING WORKSHOP SDN BHD",
+                    "address": "No. 1, Lorong Seri Mahkota Aman 1, Batu 11, Jalan Gambang, 25150, Kuantan, Pahang",
+                    "phone": "09 549 5555",
+                    "fax": "6095498118",
+                    "email": "sywmsw@gmail.com",
+                    "lat": "3.751835",
+                    "lon": "103.19429"
+                },
+                {
+                    "name": "SWEE LEE WORKSHOP SDN BHD",
+                    "address": "No 3, Jalan IM 3/7, LTAT Sektor 1, Bandar Indera Mahkota, 25200, Kuantan, Pahang",
+                    "phone": "09 573 8088/ 095721680/ 095721681",
+                    "fax": "6095739088",
+                    "email": "sweelee2005@gmail.com",
+                    "lat": "3.820023",
+                    "lon": "103.289112"
+                },
+                {
+                    "name": "HOI KEEN AUTO SPRAY SDN BHD",
+                    "address": "A-551, Jalan Padang Lalang, 25050, Kuantan, Pahang",
+                    "phone": "09 5161898/ 095162471",
+                    "fax": "09-516 5898",
+                    "email": "hoikeenauto@hotmail.com",
+                    "lat": "3.812432",
+                    "lon": "103.336556"
+                },
+                {
+                    "name": "HEONG MUDGUARD WORKSHOP SDN BHD",
+                    "address": "No. 38, Jalan Industri Semambu 9/3, 25300, Kuantan, Pahang",
+                    "phone": "09 5665473/ 095667795",
+                    "fax": "6095681816",
+                    "email": "Hiongmudguard@yahoo.com.my",
+                    "lat": "3.856987",
+                    "lon": "103.318497"
+                },
+                {
+                    "name": "CJ PERTAMA MOTOR SDN BHD",
+                    "address": "No.23, Lot 62822, Jalan IM 14/9, Kawasan Industri Indera Mahkota, 25200 Indera Mahkota, Kuantan Pahang",
+                    "phone": "09 573 9677",
+                    "fax": "6095735678",
+                    "email": "cjpertamamotor@gmail.com",
+                    "lat": "3.831182",
+                    "lon": "103.282075"
+                },
+                {
+                    "name": "CHIN HUA AUTO WORKS SDN BHD",
+                    "address": "Lot 453, Jalan Kuantan Pelabuhan, (Kuantan By Pass), Mukim Sungai Karang, 26100, Kuantan, Pahang",
+                    "phone": "0135495555",
+                    "fax": "0187083612",
+                    "email": "chinhuaauto@gmail.com",
+                    "lat": "3.813359",
+                    "lon": "103.337384"
+                },
+                {
+                    "name": "LIPIS MUDGUARD SDN BHD",
+                    "address": "Lot 78, Industri Ringan Tempoyang, 27200, Kuala Lipis, Pahang",
+                    "phone": "09 3122866",
+                    "fax": "6093122866",
+                    "email": "lipismudguardlok@outlook.com",
+                    "lat": "4.160457",
+                    "lon": "102.071982"
+                },
+                {
+                    "name": "MENG MUDGUARD & SPRAY SDN BHD",
+                    "address": "Lot 6, Kawasan Perindustrian Jerantut, 27000, Jerantut, Pahang",
+                    "phone": "09 2663671",
+                    "fax": "6092671997",
+                    "email": "mengmudguard@gmail.com",
+                    "lat": "3.962901",
+                    "lon": "102.458496"
+                },
+                {
+                    "name": "M & Y AUTO SERVICES SDN BHD",
+                    "address": "Lot 29, Kawasan Perindustrian Bentong, 28700, Bentong, Pahang",
+                    "phone": "09 2220088",
+                    "fax": "6092232296",
+                    "email": "myauto.0088@gmail.com",
+                    "lat": "3.524933",
+                    "lon": "101.909735"
+                },
+                {
+                    "name": "JYW Car Service Center Sdn Bhd",
+                    "address": "Batu 2 1/2, Jalan Lipis, 27600 Raub, Pahang",
+                    "phone": "093559395",
+                    "fax": "093559400",
+                    "email": "jywcarservice@gmail.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "LEONG WORKSHOP (KUANTAN) SDN BHD",
+                    "address": "Lot 60297, Industri Ringan Prima Kota 3, Indera Makhota IM 16/3, 25200 Kuantan Pahang",
+                    "phone": "095162527",
+                    "fax": "095179890",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "HUAT HIN MUDGUARD & SPRAYING SDN BHD",
+                    "address": "51, BATU SATU, JALAN TEMERLOH, 28300 TRIANG, PAHANG",
+                    "phone": "09-2505855",
+                    "fax": "09-2506855",
+                    "email": "huathin6855@gmail.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "TEMERLOH MAJUJAYA AUTO SERVICES SDN BHD",
+                    "address": "27, JALAN INDUSTRI 3/3, TAMAN PERINDUSTRIAN, TEMERLOH, 28400 MENTAKAB, PAHANG",
+                    "phone": "09-2775411",
+                    "fax": "09-2783411",
+                    "email": "temerlohmajujaya@hotmail.com",
+                    "lat": "",
+                    "lon": ""
+                }
+            ]
+        },
+        {
+            "name": "Perlis",
+            "places": [
+                {
+                    "name": "LEAN HUP WORKSHOP SDN BHD",
+                    "address": "KM 13.9, Jalan Arau-Kodiang, 02600, Arau, Perlis",
+                    "phone": "04 9861201",
+                    "fax": "6049863678",
+                    "email": "leanhupworkshop@yahoo.com",
+                    "lat": "6.414992",
+                    "lon": "100.282341"
+                },
+                {
+                    "name": "WEI LEE WORKSHOP SDN BHD",
+                    "address": "No. 0166-A, Batu 3/4, Jalan Baru Bohor Temak, 01000, Kangar, Perlis",
+                    "phone": "04 9763790",
+                    "fax": "6049763790",
+                    "email": "weileewl@hotmail.com",
+                    "lat": "6.445515",
+                    "lon": "100.200231"
+                }
+            ]
+        },
+        {
+            "name": "Pulau Pinang",
+            "places": [
+                {
+                    "name": "TATT SENG JAYA AUTOMOBILE SDN BHD",
+                    "address": "Plot 26, LPBM 9, Kawasan Perindustrian 14100 Bukit Minyak, Seberang Prai, Penang",
+                    "phone": "04 5077020/ 045074139",
+                    "fax": "04-5078146",
+                    "email": "kongsiah@tm.net.my",
+                    "lat": "5.308701",
+                    "lon": "100.448003"
+                },
+                {
+                    "name": "CHOP CHIN HOOI AUTO SERVICES SDN BHD",
+                    "address": "398A, Jalan Taiping, Off Jalan Perak, 11600 Pulau Pinang",
+                    "phone": "04-2817542",
+                    "fax": "04-2811542",
+                    "email": "chinhoois@gmail.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "CHIN LAK MOTOR SDN BHD",
+                    "address": "No. 2174, Main Road, 14300, Nibong Tebal, Pulau Pinang",
+                    "phone": "04 5931580",
+                    "fax": "045931340",
+                    "email": "chinlak2u@gmail.com",
+                    "lat": "5.160018",
+                    "lon": "100.476665"
+                },
+                {
+                    "name": "SOON HIN SERVICE & REPAIR SDN BHD",
+                    "address": "91-K, Jalan Trusan, Jelutong Baratm Jelutong, 10150 Pulau Pinang",
+                    "phone": "04 2828426/ 042815235",
+                    "fax": "42821024",
+                    "email": "soonhinpg@gmail.com",
+                    "lat": "5.401626",
+                    "lon": "100.321237"
+                },
+                {
+                    "name": "YIK PENG MOTOR WORKSHOP SDN BHD",
+                    "address": "No.1940, Main Road, Sungai Bakap, 14200, Pulau Pinang",
+                    "phone": "04 5821750",
+                    "fax": "45821751",
+                    "email": "yikpengmotor@hotmail.com",
+                    "lat": "5.217768",
+                    "lon": "100.497329"
+                },
+                {
+                    "name": "SYARIKAT KHOR MOTOR SERVICE SDN BHD",
+                    "address": "365, Jalan Tan Sri Teh Ewe Lim, 11600, Pulau Pinang",
+                    "phone": "04 2817080",
+                    "fax": "6042818942",
+                    "email": "katherine_khor@khormotor.com.my",
+                    "lat": "5.393101",
+                    "lon": "100.303627"
+                },
+                {
+                    "name": "SHEN WAH AUTO SERVICES SDN. BHD",
+                    "address": "36, Solok Rawana, (Off Jalan P. Ramlee), 10460, Pulau Pinang",
+                    "phone": "04 2813072/ 042814917",
+                    "fax": "6042817101",
+                    "email": "shenwahautoservices@yahoo.com",
+                    "lat": "5.406468",
+                    "lon": "100.312462"
+                },
+                {
+                    "name": "JSAR JAYA SDN BHD",
+                    "address": "40-M, Macalister Road, 10400 Georgetown Pulau Pinang",
+                    "phone": "04 2261511/ 052270484",
+                    "fax": "42289584",
+                    "email": "jsar_jaya@yahoo.com",
+                    "lat": "5.414934629",
+                    "lon": "100.3281838"
+                },
+                {
+                    "name": "A-AUTOMOBILE BODY WORKS SDN BHD",
+                    "address": "99, Tanjung Tokong Road, 10470, Pulau Pinang",
+                    "phone": "04 8991977/ 048901977",
+                    "fax": "048999977",
+                    "email": "automobile99@yahoo.com",
+                    "lat": "5.446008",
+                    "lon": "100.304826"
+                },
+                {
+                    "name": "TEONG CHAI SPRAY PAINTING SDN BHD",
+                    "address": "5097, Jalan Siram, 12100 Butterworth, Pulau Pinang",
+                    "phone": "04 3314008",
+                    "fax": "043324008",
+                    "email": "tcspray@hotmail.com",
+                    "lat": "5.412932",
+                    "lon": "100.379269"
+                },
+                {
+                    "name": "LEAN LEE WELDING & SPRAY PAINTING SDN BHD",
+                    "address": "1235, Lorong Perusahaan Sg. Lokan 5, Kawasan Perindustrian Sg. Lokan (ACKU), MK16 Bagan Lalang, 13400, Butterworth, Pulau Pinang",
+                    "phone": "04 310 8686/ 043108688",
+                    "fax": "43108687",
+                    "email": "llwsp@leanlee.com.my",
+                    "lat": "5.432753",
+                    "lon": "100.407245"
+                },
+                {
+                    "name": "WELLESLEY MOTOR WORKSHOP (PG) SDN BHD",
+                    "address": "TBP 6424 MK 13, Jalan Mengkudu, Juru, 14009, Bukit Mertajam, Pulau Pinang",
+                    "phone": "04 508 8588",
+                    "fax": "045077939",
+                    "email": "wm24hour@gmail.com",
+                    "lat": "5.3170308",
+                    "lon": "100.434265"
+                },
+                {
+                    "name": "H.B.MOTOR WORKSHOP SDN BHD",
+                    "address": "1736, Jalan Berapit, 14000, Bukit Mertajam, Pulau Pinang",
+                    "phone": "04 5392593/ 045389297",
+                    "fax": "45396292",
+                    "email": "heapbee.hb@gmail.com",
+                    "lat": "5.385878",
+                    "lon": "100.481024"
+                },
+                {
+                    "name": "TENGGARA WORKSHOP SDN BHD",
+                    "address": "Lot 2568 Mk-10, Jalan Relau, 11900, Bayan Lepas, Pulau Pinang",
+                    "phone": "04 6444240/ 046468133",
+                    "fax": "46433524",
+                    "email": "syarikat_tenggara@yahoo.com",
+                    "lat": "5.334322",
+                    "lon": "100.27754"
+                },
+                {
+                    "name": "KEAN HIN SPRAY PAINTING & AUTO CAR REPAIR SDN BHD",
+                    "address": "Lot 1656, MK 13, Jalan Relau, 11900 Bayan Lepas, Pulau Pinang",
+                    "phone": "0124281074",
+                    "fax": "046443729",
+                    "email": "syarikat_tenggara@yahoo.com",
+                    "lat": "5.334322",
+                    "lon": "100.27754"
+                }
+            ]
+        },
+        {
+            "name": "Sabah",
+            "places": [
+                {
+                    "name": "BENGKEL SETIAMAJU SDN BHD",
+                    "address": "Kampung Dambai, NT 013070892, Jalan Tuaran Bypass Kota Kinabalu P.O. Box 457, 89257, Tuaran, Sabah",
+                    "phone": "0198805558",
+                    "fax": "088 491139",
+                    "email": "son_leong30@yahoo.com",
+                    "lat": "5.999126",
+                    "lon": "116.12559"
+                },
+                {
+                    "name": "HUP FOH ENGINEERING SDN BHD",
+                    "address": "TB 11898, Lot No. SD 6, Landmark Light Industrial Park, Mile 4 1/2 , Jalan Apas, 91000, Tawau, Sabah P.O. Box 61427,91024 Tawau, Sabah",
+                    "phone": "089918014",
+                    "fax": "089918014",
+                    "email": "bhupfoh@yahoo.com",
+                    "lat": "4.249139",
+                    "lon": "117.942353"
+                },
+                {
+                    "name": "BENGKEL WILSON (TAWAU) SDN BHD",
+                    "address": "TB 775, Mile 4, Jalan Apas, P. O. Box No 37, Tawau 91007, Sabah",
+                    "phone": "089 912793",
+                    "fax": "089 912007",
+                    "email": "wilsonmotor@yahoo.com",
+                    "lat": "4.4493288",
+                    "lon": "118.0419026"
+                },
+                {
+                    "name": "BENGKEL FW SDN BHD",
+                    "address": "TB 2946, Lot B24, Sedco Light Industrial Estate, Mile 3, Apas Road, P.O. Box 61853, Tawau 91028, Sabah",
+                    "phone": "089 911853",
+                    "fax": "89911831",
+                    "email": "forwardliew@yahoo.com",
+                    "lat": "4.282457",
+                    "lon": "117.914787"
+                },
+                {
+                    "name": "BENGKEL RITA SDN. BHD.",
+                    "address": "CL26728, KM 5, Jalan Semporna, Tawau, P.O. Box 67, 91307, Semporna, Sabah",
+                    "phone": "089 782217/ 089781977",
+                    "fax": "89782119",
+                    "email": "bengkelrita@hotmail.com",
+                    "lat": "4.436335",
+                    "lon": "118.531842"
+                },
+                {
+                    "name": "VUN LEE WORKSHOP SDN BHD",
+                    "address": "Lot No 5, Mile 4, Bandar Kim Fung, Light Industrial Building, North Road P.O. Box. 191, 90307, Sandakan, Sabah",
+                    "phone": "089 216337/ 089226337",
+                    "fax": "089 462262",
+                    "email": "vunlee88@hotmail.com",
+                    "lat": "5.857746",
+                    "lon": "118.084665"
+                },
+                {
+                    "name": "KHEONG KONG WORKSHOP SDN BHD",
+                    "address": "Mile 3 1/2, North Road, P.O. Box 903, 90710, Sandakan, Sabah",
+                    "phone": "089 216112/ 089236112",
+                    "fax": "089 237112",
+                    "email": "kheongkong@hotmail.com",
+                    "lat": "5.853995",
+                    "lon": "118.073129"
+                },
+                {
+                    "name": "BENGKEL AH KWAN SDN BHD.",
+                    "address": "Kg. Marakau, Jalan 1 1/2 KM, Ranau/Sandakan, P.O. Box 929, 89308 Ranau, Sabah",
+                    "phone": "088 877269/ 088872268",
+                    "fax": "88878269/388",
+                    "email": "bengkel_ah_kwan@yahoo.com",
+                    "lat": "5.946735",
+                    "lon": "116.768013"
+                },
+                {
+                    "name": "AM LEONG ENGINEERING SDN BHD",
+                    "address": "Kg. Paka 22, 2 KM, Jalan Ranau Tambunan, 89300 Ranau, Sabah",
+                    "phone": "088 875608",
+                    "fax": "88876608",
+                    "email": "amleong2@gmail.com",
+                    "lat": "5.937382",
+                    "lon": "116.66948"
+                },
+                {
+                    "name": "HUP FOH MASTER SDN BHD",
+                    "address": "Lot 42, Kim Bell Light Industrial Estate, Mile 3, Dam Road, P.O. Box 61696, 91125, Lahad Datu, Sabah",
+                    "phone": "089 886728/ 089886712",
+                    "fax": "089-886712",
+                    "email": "hupfohmaster1@gmail.com",
+                    "lat": "5.041",
+                    "lon": "118.339024"
+                },
+                {
+                    "name": "BENGKEL SOON LEE (LDU) SDN BHD",
+                    "address": "Lot 7 & 8, Jalan Dabak, Off Jalan Dam, P.O. Box 60467, 91114 Lahad Datu, Sabah",
+                    "phone": "089 882785/ 089883785",
+                    "fax": "089883034",
+                    "email": "bf_ldu@hotmail.com",
+                    "lat": "5.035963",
+                    "lon": "118.33911"
+                },
+                {
+                    "name": "WONG BROTHERS WORKSHOP & SERVICES SDN BHD",
+                    "address": "Mile 4 1/2, Jalan Ranca Ranca. P.O Box 80219, 87012, Labuan",
+                    "phone": "087 414784",
+                    "fax": "87414785",
+                    "email": "wong_brothers@msn.com",
+                    "lat": "5.278783",
+                    "lon": "115.228726"
+                },
+                {
+                    "name": "COLOR MIXING SDN BHD",
+                    "address": "Lot 96, 75-76 Court Light Industrial Park, Jalan Durian Tunjong, P.O Box 80077 Wilayah Persekutuan Labuan, Sabah",
+                    "phone": "087 467588",
+                    "fax": "087-464658",
+                    "email": "enquiry@colormixing.com.my",
+                    "lat": "5.3266171",
+                    "lon": "115.2355999"
+                },
+                {
+                    "name": "JOO HWANG WORKSHOP SDN BHD",
+                    "address": "Jalan Pekan Goshen, P.O. Box 511, 89107, Kota Marudu, Sabah",
+                    "phone": "088 662662",
+                    "fax": "088 662612",
+                    "email": "h_workshop@yahoo.com",
+                    "lat": "6.386271",
+                    "lon": "116.850586"
+                },
+                {
+                    "name": "YIK SIN AUTO SDN BHD",
+                    "address": "Lot No 2, Lorong Belimbing, Off Jalan Tuaran, Kolombong, Mile 5 1/2, Kota Kinabalu, Sabah",
+                    "phone": "0198808154/ 0168329555",
+                    "fax": "088 385712",
+                    "email": "yiksinauto@gmail.com",
+                    "lat": "5.976474",
+                    "lon": "116.115777"
+                },
+                {
+                    "name": "TOYO AUTO SERVICES CENTRE SDN BHD",
+                    "address": "Lot 28, Lok Kawi Industrial Estate, Phase 28B, Jalan Lama Papar 89600, Kota Kinabalu, Sabah.",
+                    "phone": "088 717982/ 088723920/ 08723921",
+                    "fax": "088 720531",
+                    "email": "toyoauto168@hotmail.com",
+                    "lat": "5.91538",
+                    "lon": "116.100887"
+                },
+                {
+                    "name": "TONG SENG AUTO SERVICE CENTRE SDN BHD",
+                    "address": "Mile 5 1/2, Penampang Road, 83000 Kota Kinabalu, Sabah",
+                    "phone": "088 712405",
+                    "fax": "088 712023",
+                    "email": "tsascsb@gmail.com",
+                    "lat": "5.951673",
+                    "lon": "116.079216"
+                },
+                {
+                    "name": "STEPHEN MOTORS SDN BHD",
+                    "address": "Lot 3, CL015407824, Mile 9, Inanam Road, P.O.Box A140, 89357, Inanam, Kota Kinabalu, Sabah",
+                    "phone": "088 497786",
+                    "fax": "088 498799",
+                    "email": "stphmtrs@hotmail.com",
+                    "lat": "6.034383",
+                    "lon": "116.149864"
+                },
+                {
+                    "name": "SIN HUP FOH MOTOR SDN BHD",
+                    "address": "No 164, Mile 4 1/2, Jalan Putatan, P.O. Box 11581, 88817 Kota Kinabalu, Sabah",
+                    "phone": "088 750 226/ 088246226",
+                    "fax": "088 237418",
+                    "email": "hup_foh@hotmail.com",
+                    "lat": "5.837946",
+                    "lon": "116.049442"
+                },
+                {
+                    "name": "L.B WENG MOTOR SDN BHD",
+                    "address": "Mile 6,  1/2, Putatan Road, P.O. Box 13347, 88200, Kota Kinabalu, Sabah",
+                    "phone": "088 771663/ 088771662",
+                    "fax": "088 761067",
+                    "email": "lbweng@yahoo.com",
+                    "lat": "5.932972208",
+                    "lon": "116.1254883"
+                },
+                {
+                    "name": "KK SRI JAYA MOTOR SDN BHD",
+                    "address": "Lot 2, Jalan Ramayah Putatan, 88300, Kota Kinabalu, P.O. Box 50700 Putatan, 88725, Kota Kinabalu, Sabah",
+                    "phone": "088 773990",
+                    "fax": "088 772990",
+                    "email": "sjmotorkk@gmail.com",
+                    "lat": "5.898524",
+                    "lon": "116.049893"
+                },
+                {
+                    "name": "HYPERMAX AUTOWORKS SDN. BHD.",
+                    "address": "Mile 9, Jalan Tuaran, Menggatal, P.O. Box 12637, 88829, Kota Kinabalu, Sabah",
+                    "phone": "088 491692/ 088493692",
+                    "fax": "0088 491600",
+                    "email": "hypermaxauto@hotmail.com",
+                    "lat": "5.976474",
+                    "lon": "116.115777"
+                },
+                {
+                    "name": "SIN AIK BEE AUTO CENTRE SDN BHD",
+                    "address": "Batu 1, Jalan Bakiau P.O. Box No 588, 89008, Keningau, Sabah",
+                    "phone": "087 339346",
+                    "fax": "087 341822",
+                    "email": "hkhwee@gmail.com",
+                    "lat": "5.350518",
+                    "lon": "116.183263"
+                },
+                {
+                    "name": "HAP SUN LEE WORKSHOP SDN BHD",
+                    "address": "Jalan BF, KK Highway, Kg. Klias Baru, P.O.Box 271, 89807 Beaufort, Sabah",
+                    "phone": "087 212331/ 087224263",
+                    "fax": "087223767",
+                    "email": "hslworkshop@gmail.com",
+                    "lat": "",
+                    "lon": "115.739236"
+                },
+                {
+                    "name": "GF MOTOR SERVICES SDN BHD",
+                    "address": "KM 5 1/2 Jalan Tuaran, Taman Perindustrian Nountun, P.O. Box 11841, 88820 Kota Kinabalu, Sabah",
+                    "phone": "088-434128",
+                    "fax": "088-435129",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "KIM MAJU AUTO WORKS SDN BHD",
+                    "address": "Miles 6, Jalan Tuaran, Lorong Buah Jamnu Susu, Sri Kemajuan Industri, 88450 Inaman, P.O.Box 22439, 88789 Luyang, Kota Kinanbalu Sabah",
+                    "phone": "088386677",
+                    "fax": "088436882",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "KIM THAI AUTOWORKS SDN BHD",
+                    "address": "Mile 9, Tuaran Road Jalan Rampayan Menggatal PO Box 11982, 88821 Kota Kinabalu Sabah",
+                    "phone": "088497390",
+                    "fax": "088497305",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                }
+            ]
+        },
+        {
+            "name": "Sarawak",
+            "places": [
+                {
+                    "name": "TAN KHOON SIA AUTO SDN BHD",
+                    "address": "32, Jalan Sabu, 95000, Sri Aman, Sarawak",
+                    "phone": "083 322149/ 083323149",
+                    "fax": "083323555",
+                    "email": "tcpoh98@gmail.com",
+                    "lat": "1.223954",
+                    "lon": "111.466674"
+                },
+                {
+                    "name": "T. K. MAJU AUTO WORKSHOP SDN BHD",
+                    "address": "Lot 3771, Lorong Sukun 28B/2, Then Kung Suk 3, 96000 Sibu, Sarawak",
+                    "phone": "084 218627",
+                    "fax": "084210627",
+                    "email": "",
+                    "lat": "2.285198",
+                    "lon": "111.834387"
+                },
+                {
+                    "name": "SIBU NGU BROTHERS MOTOR SERVICE SDN BHD",
+                    "address": "Lot 907, Jalan Bukit Lima, 96000, Sibu, Sarawak",
+                    "phone": "084 212 910",
+                    "fax": "084-215890",
+                    "email": "",
+                    "lat": "2.2715",
+                    "lon": "111.843126"
+                },
+                {
+                    "name": "MEGA LINK GENERAL AUTOWORKS (2008) SDN BHD",
+                    "address": "No.12B, Lorong Ding Lik Kong 37, Jalan Ding Lik Kong, 96000, Sibu, Sarawak",
+                    "phone": "6084 336678",
+                    "fax": "84347678",
+                    "email": "mega_kong@yahoo.com",
+                    "lat": "2.347791",
+                    "lon": "111.826355"
+                },
+                {
+                    "name": "HUPSOON SERVICING SDN BHD",
+                    "address": "2 1/2 Miles, Repok Road, 96100 Sarikeo, Sarawak",
+                    "phone": "084 652932",
+                    "fax": "084652578",
+                    "email": "hupsoon@hotmail.com",
+                    "lat": "2.11695",
+                    "lon": "111.523311"
+                },
+                {
+                    "name": "TIONG ING WORKSHOP & SERVICES SDN BHD",
+                    "address": "Lot 60, BLK 53 Mukah Land District 94600 Mukah, Sarawak",
+                    "phone": "084 871788",
+                    "fax": "084-871 788",
+                    "email": "",
+                    "lat": "2.50277",
+                    "lon": "112.315663"
+                },
+                {
+                    "name": "TL GARAGE SARAWAK SDN BHD",
+                    "address": "Lot 1799, Blk 3, MCLD, Piasau Industrial Estate, P.O.Box 1132, 98008 Miri. Sarawak",
+                    "phone": "085 661926/ 085661951",
+                    "fax": "085-661 735",
+                    "email": "enquiry@tlgarage.com.my",
+                    "lat": "4.355855",
+                    "lon": "113.9736"
+                },
+                {
+                    "name": "KIAT SENG WELDING WORKS SDN BHD",
+                    "address": "Lot 1358, Block 3, Piasau Industrial Estate, 98000, Miri, Sarawak",
+                    "phone": "085 656212",
+                    "fax": "085 653212",
+                    "email": "admin@kiatseng.com.my",
+                    "lat": "4.437868",
+                    "lon": "114.005696"
+                },
+                {
+                    "name": "KERETA MEWAH SDN BHD",
+                    "address": "Lot 2227, Saberkas Commercial Centre, P.O. Box 2088, 98000 Miri, Sarawak",
+                    "phone": "085650425/ 0168774888",
+                    "fax": "085650425",
+                    "email": "lester@kmmobil.com",
+                    "lat": "4.420428",
+                    "lon": "114.01646"
+                },
+                {
+                    "name": "HIAP SENG MOTOR SDN BHD",
+                    "address": "Lot 1963, Block 4, Piasau Industrial Estate, Jalan Piasau, 98000, Miri, Sarawak",
+                    "phone": "085 654082",
+                    "fax": "085 657858",
+                    "email": "hiapsengmtr@gmail.com",
+                    "lat": "4.437036",
+                    "lon": "114.007787"
+                },
+                {
+                    "name": "BATU NIAH LEE'S WORKSHOP SDN BHD",
+                    "address": "Lot 597, Niah Junction, P.O. Box 48, Pejabat Pos Mini Batu Niah, 98200, Batu Niah, Sarawak",
+                    "phone": "085 737296",
+                    "fax": "085-736 297",
+                    "email": "",
+                    "lat": "3.800138",
+                    "lon": "113.750017"
+                },
+                {
+                    "name": "CHING LUONG AUTOWORKS SDN BHD",
+                    "address": "Lot 1665, Industrial Estate, 1/2 Mile, Kubong Road, 98700, Limbang, Sarawak",
+                    "phone": "085 212123",
+                    "fax": "085 215023",
+                    "email": "syingchua@chingluongautoworks.com",
+                    "lat": "4.346647",
+                    "lon": "115.183564"
+                },
+                {
+                    "name": "YU THIAN MOTOR SERVICES SDN BHD",
+                    "address": "Lot 809, Blk 8, MTLD, Demak Laut Industrial Park Phase 3, Jalan Bako 93050, Kuching, Sarawak",
+                    "phone": "082 432814",
+                    "fax": "082 432815",
+                    "email": "yu_thian@yahoo.com",
+                    "lat": "1.581133",
+                    "lon": "110.364484"
+                },
+                {
+                    "name": "SYN HOCK HIN MOTOR SDN BHD",
+                    "address": "Lot 7701, Jalan Song/Seladah, Kuching By-Pass, 93350, Kuching, Sarawak",
+                    "phone": "08232188",
+                    "fax": "082 372276",
+                    "email": "hhmotor@pd.jaring.my",
+                    "lat": "1.520066",
+                    "lon": "110.357977"
+                },
+                {
+                    "name": "SENG HUAT REPAIR CENTRE SDN BHD",
+                    "address": "Lot 911, Blok 218, 3 1/2 Miles, Penrissen Road, 93250, Kuching, Sarawak",
+                    "phone": "082 461772/ 082461882",
+                    "fax": "082 461882",
+                    "email": "senghuatkch@gmail.com",
+                    "lat": "1.528117",
+                    "lon": "110.315341"
+                },
+                {
+                    "name": "FRIENDSHIP AUTO WORKSHOP SDN BHD",
+                    "address": "No. 114-116, Lot 41 & 42, Section 21 (KTLD), Jalan Tun Haji Openg, P.O. Box 1878, 93738, Kuching, Sarawak",
+                    "phone": "082 258902/ 03233596",
+                    "fax": "082 251168",
+                    "email": "faw24tow@yahoo.com",
+                    "lat": "1.540668",
+                    "lon": "110.341034"
+                },
+                {
+                    "name": "FENG YING MOTOR SDN BHD",
+                    "address": "No 199, Lot 586, Jalan Matang Batu 7, Off Jalan Batu Kawa, 93050, Kuching, Sarawak",
+                    "phone": "082 644199/ 082644188",
+                    "fax": "082 644133",
+                    "email": "fengyingmotor@yahoo.com",
+                    "lat": "1.573426",
+                    "lon": "110.277138"
+                },
+                {
+                    "name": "BENGKEL KERETA BAHAGIA SDN BHD",
+                    "address": "Lot 353, Lorong 3, Jalan Semaba, 5th Mile Penrissen Road, Jalan Penrissen, 93250, Kuching, Sarawak",
+                    "phone": "082 453222/ 082458222",
+                    "fax": "082-453232",
+                    "email": "bkb123@tm.net.my",
+                    "lat": "1.490099",
+                    "lon": "110.321234"
+                },
+                {
+                    "name": "AH SENG MOTOR SDN BHD",
+                    "address": "Lot 190, 4 1/2 Miles, Jalan Datuk Bandar Mustapha, 93350, Kuching, Sarawak",
+                    "phone": "082 456939",
+                    "fax": "082-616 839",
+                    "email": "asmo773@streamyx.com",
+                    "lat": "1.535266",
+                    "lon": "110.344821"
+                },
+                {
+                    "name": "PT YEW MOTOR SDN BHD",
+                    "address": "Lot 700, Mile 2, Bintulu Light Industrial Estate, P.O. Box 515. 97008, Bintulu, Sarawak",
+                    "phone": "086 331631/ 086335385",
+                    "fax": "86331608",
+                    "email": "ptyewmotor@ymail.com",
+                    "lat": "3.187394",
+                    "lon": "113.054665"
+                },
+                {
+                    "name": "HOLY AUTO SERVICE CENTRE SDN BHD",
+                    "address": "Lot 3946, Block 32, Jalan Sungai Nyigu, 97000, Bintulu, Sarawak",
+                    "phone": "086 311666/ 086311999",
+                    "fax": "086311777",
+                    "email": "holyauto96@gmail.com",
+                    "lat": "3.118576",
+                    "lon": "113.082275"
+                },
+                {
+                    "name": "GLITTERN MOTOR WORKS SDN BHD",
+                    "address": "Sublot 27, Lot 1619, Taman Johawira, Jalan Sg Nyigu, P.O.Box 1978, 97008, Bintulu, Sarawak",
+                    "phone": "086 311619/ 086331888",
+                    "fax": "08 6312368",
+                    "email": "glitternmotorworkssb@gmail.com",
+                    "lat": "4.176446",
+                    "lon": "114.037759"
+                },
+                {
+                    "name": "SZIN AUTO BODYSHOP SDN BHD",
+                    "address": "Lot 7, Block 2, KM 2.7, Jalan Kelupu, Bintangor, 96500, Bintangor, Sarawak",
+                    "phone": "084 692368",
+                    "fax": "084692368",
+                    "email": "",
+                    "lat": "2.144455",
+                    "lon": "111.666237"
+                },
+                {
+                    "name": "OREN AUTO SDN BHD",
+                    "address": "Lot 501, Block 26, Kemena Land District Kidurong Industrial Area, 97000 Bintulu, Sarawak",
+                    "phone": "086 254166",
+                    "fax": "086-253177",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "TIENG CHENG WORKSHOP (2005) SDN BHD",
+                    "address": "No.17, Lorong Sukun 28/B, Upper Lanang Road, 96000 Sibu, Sarawak",
+                    "phone": "084219171",
+                    "fax": "084219161",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                }
+            ]
+        },
+        {
+            "name": "Selangor",
+            "places": [
+                {
+                    "name": "TENG LAI MOTOR SDN BHD",
+                    "address": "Batu 7 ½, Jalan Besar, 45500 Tanjong Karang, Selangor",
+                    "phone": "03 32698063/ 0332698043",
+                    "fax": "03 32695398",
+                    "email": "kay5750@pd.jaring.my",
+                    "lat": "3.424627",
+                    "lon": "101.176073"
+                },
+                {
+                    "name": "SHIUN MOTOR SDN BHD",
+                    "address": "Lot 6, Jalan PBI 2 Perindustrian Bukit Indah, 47000, Sungai Buloh, Selangor",
+                    "phone": "03 6143 1551/ 1661/1771/1991",
+                    "fax": "03-6143 1221",
+                    "email": "shiunmotor@yahoo.com",
+                    "lat": "3.249181",
+                    "lon": "101.639984"
+                },
+                {
+                    "name": "KOK BENG MOTOR SDN BHD",
+                    "address": "Lot 29, Jalan BRP 9/1D, Taman Perindustrian Putra, Bukit Rahman Putra, 47000, Sungai Buloh, Selangor",
+                    "phone": "03 61571303",
+                    "fax": "03 61571304",
+                    "email": "kokbengmotor@yahoo.com",
+                    "lat": "3.214556",
+                    "lon": "101.634832"
+                },
+                {
+                    "name": "HIS AUTO REPAIR SERVICES (M) SDN BHD",
+                    "address": "Lot 2065-B-3, Jalan Kusta Kampung Jaya Industrial Area, 47000 Sungai Buloh",
+                    "phone": "03 61580555/ 0361580666",
+                    "fax": "03 61580008",
+                    "email": "kokbengmotor@yahoo.com",
+                    "lat": "3.238809",
+                    "lon": "101.560396"
+                },
+                {
+                    "name": "SUN REFINISHING CENTRE SDN. BHD.",
+                    "address": "Lot 839A, Jalan Persiaran Subang (Jalan Subang 7), Taman Perindustrian Subang, 47600, Subang Jaya, Selangor",
+                    "phone": "03 80230599",
+                    "fax": "03 80236599",
+                    "email": "sunrc1@hotmail.com",
+                    "lat": "3.033801",
+                    "lon": "101.593462"
+                },
+                {
+                    "name": "HENG FAT AUTOMOBILE SDN BHD",
+                    "address": "Lot 10245-B, Jalan Subang 6, Taman Perindustrian Subang 47610, Subang Jaya, Selangor",
+                    "phone": "03 80234112",
+                    "fax": "0380232112",
+                    "email": "hengfat@tm.net.my",
+                    "lat": "3.03573",
+                    "lon": "101.594519"
+                },
+                {
+                    "name": "G.Y. AUTO SDN BHD",
+                    "address": "Lot 810 (Middle Section), Jalan Subang 5, 47510, Subang Jaya, Selangor",
+                    "phone": "03 56361028/ 0356322913",
+                    "fax": "admin@gyauto.com.my",
+                    "email": "admin@gyauto.com.my",
+                    "lat": "3.03844",
+                    "lon": "101.595672"
+                },
+                {
+                    "name": "TASIK WANGSA SDN BHD",
+                    "address": "No 7, Lorong Keluli 1D, Kawasan Industri, Bukit Raja Selatan, 40800, Shah Alam, Selangor",
+                    "phone": "03 33412891",
+                    "fax": "03 33412890",
+                    "email": "twangsa@hotmail.com",
+                    "lat": "3.074948",
+                    "lon": "101.524135"
+                },
+                {
+                    "name": "SCS AUTO REPAIR SDN BHD",
+                    "address": "No 87, Jalan Pendamar 27/90, Section 27, 40400, Shah Alam, Selangor",
+                    "phone": "03 51928906",
+                    "fax": "0351929726",
+                    "email": "scsautorepairsb@gmail.com",
+                    "lat": "3.045064",
+                    "lon": "101.547564"
+                },
+                {
+                    "name": "BENGKEL SUN WENG SENG SDN BHD",
+                    "address": "Lot 2801-1, Jalan Sungai Buloh, Seksyen u6, Kampung Melayu Subang,40000 Shah Alam, Selangor",
+                    "phone": "03 78451875/ 0378451876",
+                    "fax": "03 78451879",
+                    "email": "sunws@hotmail.com",
+                    "lat": "3.154071",
+                    "lon": "101.547438"
+                },
+                {
+                    "name": "AH SANG MOTOR WORKSHOP SDN BHD",
+                    "address": "Lot 20, Jalan Utarid U5/26, Seksyen U5, Mah Sing Integrated Industrial Park, 40150, Shah Alam, Selangor",
+                    "phone": "03 78459019/ 0378450290/ 0378459030",
+                    "fax": "03-7845 9049/ 0378459099",
+                    "email": "ahsangmotor@hotmail.com",
+                    "lat": "3.173812",
+                    "lon": "101.532903"
+                },
+                {
+                    "name": "KIM SING MOTOR WORKS SDN BHD",
+                    "address": "No 62, Jalan PBS 14/4, Taman Perindustrian Bukit Serdang,43300, Seri Kembangan, Selangor",
+                    "phone": "03 89416998/ 0389458066",
+                    "fax": "03 89417998",
+                    "email": "kimsmw@gmail.com",
+                    "lat": "3.043139",
+                    "lon": "101.696915"
+                },
+                {
+                    "name": "RAWANG YEE MOTOR SDN BHD",
+                    "address": "Lot No.1 Jalan Perusahaan 1, Kawasan Perindustrian PKNS,Batu 20, 48000 Rawang, Selangor",
+                    "phone": "03 60916250",
+                    "fax": "03 - 6092 6250",
+                    "email": "yeemotor@gmail.com",
+                    "lat": "3.338436",
+                    "lon": "101.57805"
+                },
+                {
+                    "name": "BRAVO MOTOR (M) SDN BHD",
+                    "address": "85, Jalan Jejarum 2A, Seksyen BB9, Bandar Baru Bukit Beruntung, Rawang, 48300, Rawang, Selangor",
+                    "phone": "03 6021 6818",
+                    "fax": "03-6021 5818",
+                    "email": "bravo.motor@yahoo.com",
+                    "lat": "3.403522",
+                    "lon": "101.571733"
+                },
+                {
+                    "name": "K I UNITED MOTOR WORKSHOP SDN BHD",
+                    "address": "No 1, Jalan Rajawali 3, Bandar Puchong Jaya, 47100, Puchong, Selangor",
+                    "phone": "03 80757810",
+                    "fax": "03 80759458",
+                    "email": "kiunited@gmail.com",
+                    "lat": "3.052523",
+                    "lon": "101.62063"
+                },
+                {
+                    "name": "HUP SENG COLLISION REPAIR (PUCHONG)SDN BHD",
+                    "address": "No. 6, Jalan TPP 6/12, Seksyen 6, Taman Perindustrian Puchong, 47100, Puchong, Selangor",
+                    "phone": "03 80685919/ 0380685203",
+                    "fax": "03-80685918",
+                    "email": "hup_seng@hotmail.com",
+                    "lat": "3.0259042",
+                    "lon": "101.605184"
+                },
+                {
+                    "name": "AUTO CARRIAGE RESOURCES SDN BHD",
+                    "address": "No. 12, Jalan TPP1/1A, Taman Perindustrian Puchong, 47100, Puchong, Selangor",
+                    "phone": "03 80610926",
+                    "fax": "03 80615973",
+                    "email": "acr_puchong@yahoo.com",
+                    "lat": "3.022712",
+                    "lon": "101.609223"
+                },
+                {
+                    "name": "V & M MOTOR SDN BHD",
+                    "address": "No. 15, Jalan 230, Seksyen 51A, 46100 Petaling Jaya Selangor",
+                    "phone": "0378738559",
+                    "fax": "0378735589",
+                    "email": "acr_puchong@yahoo.com",
+                    "lat": "3.022712",
+                    "lon": "101.609223"
+                },
+                {
+                    "name": "SUBANG MOTOR SDN BHD",
+                    "address": "No. 16, Jalan 51A/227, Seksyen 51A, 46100, Petaling Jaya, Selangor",
+                    "phone": "03 7875 0016/ 0378750733",
+                    "fax": "03-78759803",
+                    "email": "subangmotorsb@gmail.com",
+                    "lat": "3.100884",
+                    "lon": "101.632206"
+                },
+                {
+                    "name": "SOON HOI MOTOR SDN BHD",
+                    "address": "No. 2, Jalan PJS 11/22, Sunway Technology Park, Bandar Sunway, 46150, Petaling Jaya, Selangor",
+                    "phone": "03 56310748",
+                    "fax": "03-5636 6848",
+                    "email": "soonhoi@stereamyx.com",
+                    "lat": "3.067711",
+                    "lon": "101.601984"
+                },
+                {
+                    "name": "SOON FATT HENG MOTOR SDN BHD",
+                    "address": "2A Jalan Kilang, 46050, Petaling Jaya, Selangor",
+                    "phone": "03 7781 5468/ 0377815467",
+                    "fax": "03 7783 2536",
+                    "email": "motorsoonfattheng@yahoo.com",
+                    "lat": "3.091126",
+                    "lon": "101.638247"
+                },
+                {
+                    "name": "MENG HO AUTO SERVICES SDN BHD",
+                    "address": "No. 3, Jalan PJU 3/46, Sunway Damansara, 47810, Petaling Jaya, Selangor",
+                    "phone": "03 7729 8319/ 0377224073",
+                    "fax": "0377258319",
+                    "email": "mengho@live.com",
+                    "lat": "3.165521",
+                    "lon": "101.602059"
+                },
+                {
+                    "name": "CITY HUNDRED MOTOR SDN BHD",
+                    "address": "Lot 1043, Jalan Cempaka, Kg. Sg. Kayu Ara, Mukim Damansara, 47400, Petaling Jaya, Selangor",
+                    "phone": "03 77299933",
+                    "fax": "03 77274657",
+                    "email": "cityhundredmotor@gmail.com",
+                    "lat": "2.985103",
+                    "lon": "101.515321"
+                },
+                {
+                    "name": "CHING SEONG MOTORS SDN BHD",
+                    "address": "14-16, Lorong 51A/227C, 46100, Petaling Jaya, Selangor",
+                    "phone": "03 79576623/ 0379575692",
+                    "fax": "0379558825",
+                    "email": "csmotors@po.jaring.my",
+                    "lat": "3.100098",
+                    "lon": "101.630552"
+                },
+                {
+                    "name": "V-QEONG AUTOMOBILE SDN BHD",
+                    "address": "Lot 1859, Jalan Goh Hock Huat, Batu 2, 41400, Klang, Selangor",
+                    "phone": "03 33452126",
+                    "fax": "03-3343 6124",
+                    "email": "v_qeong@yahoo.com",
+                    "lat": "3.060844",
+                    "lon": "101.437942"
+                },
+                {
+                    "name": "UNITED TEH AUTO REPAIR SDN BHD",
+                    "address": "No 3, Jalan 39, Kawasan 16, Off Jalan Connaught Bridge,41300, Klang, Selangor",
+                    "phone": "603 3341 8309",
+                    "fax": "0333421613",
+                    "email": "",
+                    "lat": "3.050472",
+                    "lon": "101.472472"
+                },
+                {
+                    "name": "SYARIKAT MOTOR SIN WING SOON (KLG) SDN BHD",
+                    "address": "Lot 21233, Batu 3, Jalan Kapar, 41400, Klang, Selangor",
+                    "phone": "03 33410290",
+                    "fax": "03-33410869",
+                    "email": "claim@swsmotor.com.my",
+                    "lat": "3.067218",
+                    "lon": "101.430845"
+                },
+                {
+                    "name": "SIN YEN SOON ENGINEERING SDN BHD",
+                    "address": "Lot 9184 & 9209, Jalan Telok Gong, Telok Gong, 42000 Klang, Selangor",
+                    "phone": "016 2056108/ 0122982568/ 0355107702",
+                    "fax": "0331341287",
+                    "email": "",
+                    "lat": "2.95043",
+                    "lon": "101.381891"
+                },
+                {
+                    "name": "POPULAR AUTO & SERVICES SDN BHD",
+                    "address": "No. 55, Solok Sultan Mohamad 1, Pusat Perdagangan Bandar Sultan Sulaiman 4, 42000, Port Klang (North Port), Selangor",
+                    "phone": "03 31760588/ 0162631158",
+                    "fax": "03-3176 0588",
+                    "email": "p_autos@streamyx.com",
+                    "lat": "3.004169",
+                    "lon": "101.413376"
+                },
+                {
+                    "name": "ESHWAR AUTO SERVICES (M) SDN BHD",
+                    "address": "No 3,Lintang Sungai Keramat 2A/KU6, Taman Industrial Klang Utama, 42100 Klang, Selangor",
+                    "phone": "03 32916703/ 0355107703/ 0355107702",
+                    "fax": "03-32914912",
+                    "email": "sivam65@streamyx.com",
+                    "lat": "3.085139",
+                    "lon": "101.523418"
+                },
+                {
+                    "name": "CHEN KEONG ENGINEERING SDN BHD",
+                    "address": "No. 376-B, Batu 14, Jalan Kapar, 42200, Kapar, Selangor",
+                    "phone": "03 32507955",
+                    "fax": "0332507926",
+                    "email": "",
+                    "lat": "3.141095",
+                    "lon": "101.363645"
+                },
+                {
+                    "name": "DYNAMIC AUTO SERVICE CENTRE SDN BHD",
+                    "address": "Lot 29, Jalan Balakong, Batu 11, Cheras, 43200, Kajang Selangor",
+                    "phone": "03 9074 0516",
+                    "fax": "03-90742516",
+                    "email": "dasc1388@gmail.com",
+                    "lat": "3.040532",
+                    "lon": "101.770578"
+                },
+                {
+                    "name": "CAR MEDIC AUTO REPAIR SDN BHD",
+                    "address": "No 1A Jalan P4/7, Seksyen 4,Bandar Teknologi Kajang, 43500, Semenyih, Selangor",
+                    "phone": "03 8723 6555",
+                    "fax": "03-87230055",
+                    "email": "vlkwan@carmedic.com.my",
+                    "lat": "2.962674",
+                    "lon": "101.820823"
+                },
+                {
+                    "name": "WENG OON AUTO SDN BHD",
+                    "address": "50, Jalan Mas Jaya 2, Kawasan Perindustrian Mas Jaya, 43200, Cheras, Kuala Lumpur",
+                    "phone": "03 90751133",
+                    "fax": "0390767068",
+                    "email": "",
+                    "lat": "3.071937",
+                    "lon": "101.777772"
+                },
+                {
+                    "name": "LEE HING MOTORS SDN BHD",
+                    "address": "Lot 624, 7 1/4 Mile, Jalan Ipoh, Batu Caves 68100 Selangor",
+                    "phone": "03 61854355",
+                    "fax": "0361853518",
+                    "email": "sengleehing@gmail.com",
+                    "lat": "3.07004",
+                    "lon": "101.437363"
+                },
+                {
+                    "name": "KIM FOOM MOTOR SDN BHD",
+                    "address": "No. 1, Jalan 2/10B, Spring Crest Industrial Park, 68100, Batu Caves, Selangor",
+                    "phone": "0361896914/ 0361899780",
+                    "fax": "0361899781",
+                    "email": "",
+                    "lat": "3.25813",
+                    "lon": "101.66959"
+                },
+                {
+                    "name": "POH KIN MOTOR WORKS SDN BHD",
+                    "address": "No. 2872, Jalan Ipoh, Batu 30, Ulu Yam Lama, 44300, Batang Kali, Selangor",
+                    "phone": "03 60751106/ 0360752107",
+                    "fax": "03-6075 2106",
+                    "email": "pkmwtlt@yahoo.com",
+                    "lat": "3.455108",
+                    "lon": "101.636048"
+                },
+                {
+                    "name": "GALLANT MOTORS SDN BHD",
+                    "address": "No. 35, 36 & 37, Jalan Emas 14, Bandar Sungai Emas, Sungai Manggis, 42700, Banting, Selangor",
+                    "phone": "03 31879776/ 0331812088",
+                    "fax": "0331873014",
+                    "email": "gallantmotors@gmail.com",
+                    "lat": "2.824936",
+                    "lon": "101.535887"
+                },
+                {
+                    "name": "BUMI PERKASA MOTOR WORKS (M) SDN BHD",
+                    "address": "LOT 2724, JALAN BESAR, SUNGAI MERAP LUAR, 43000, KAJANG, SELANGOR",
+                    "phone": "03 89221100/ 0389251100",
+                    "fax": "03 89261100",
+                    "email": "bpmw1100@gmail.com",
+                    "lat": "2.93561",
+                    "lon": "101.753874"
+                },
+                {
+                    "name": "CAR MECH SDN BHD",
+                    "address": "NO.1, JALAN PS7, BATU 8, TAMAN PRIMA SELAYANG, 68100 SELANGOR",
+                    "phone": "03-6120 1999",
+                    "fax": "03-6120 3999",
+                    "email": "yee@carmech.com.my",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "TAI POH MOTOR SDN BHD",
+                    "address": "NO. 2-G & 2-1, Jalan Lembah Jaya 4, Taman Industri Lembah Jaya, 68000, Ampang, Selangor",
+                    "phone": "03 42709632",
+                    "fax": "03 42700573",
+                    "email": "tpm0944@streamyx.com",
+                    "lat": "3.140533",
+                    "lon": "101.782008"
+                },
+                {
+                    "name": "CHIN LIN AUTO SDN BHD",
+                    "address": "No. 9 -13, Jalan Mewah 3/3, Taman Pandan Mewah, 68000, Ampang, Selangor",
+                    "phone": "03 42955364/ 0342930566/ 0342806430",
+                    "fax": "0342806427/0342978092",
+                    "email": "chinlin_auto@hotmail.com",
+                    "lat": "3.127966",
+                    "lon": "101.767248"
+                },
+                {
+                    "name": "SUN CAR MOTORS SDN BHD",
+                    "address": "PT 36897, Jalan Selat Selatan 16, Taman Perindustrian Pandamaran, Pelabuhan Klang, 42000 Selangor",
+                    "phone": "0331653516",
+                    "fax": "0531653524",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "ICHIBAN CHIBA AUTO SERVICE SDN BHD",
+                    "address": "No 11, Jalan PS 4/1 Taman Prima Selayang KM 15, Jalan Rawang, 68100 Batu Caves Selangor",
+                    "phone": "0361208292",
+                    "fax": "0361205293",
+                    "email": "chiba_auto32@yahoo.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "PLANET CAR SDN BHD",
+                    "address": "2, 4,5,6 Jalan Utama 1/15, Taman Perindustrian Puchong Utama, 47100 Puchong, Selangor, Malaysia",
+                    "phone": "0380611132",
+                    "fax": "0380621132",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "F.W. LOH MOTOR SDN BHD",
+                    "address": "26, Jalan SR 2/5, Taman Serdang Raya, 43300, Selangor",
+                    "phone": "0389413833/ 0389573829",
+                    "fax": "0389417833",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "SPEED MASTER BODY & PAINT SDN BHD",
+                    "address": "No. 33, Jalan P/21, Taman Perindustrian Selaman, Seksyen 10, Selangor, 43650 Bandar Baru Bangi, Malaysia",
+                    "phone": "0389202295",
+                    "fax": "0389202969",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "WENG HENG AUTO REPAIR SDN BHD",
+                    "address": "333A, JALAN BESAR AMPANG, 68000 AMPANG, SELANGOR",
+                    "phone": "03-42912802/ 0342931333",
+                    "fax": "03-42851663/03-42936333",
+                    "email": "sywengheng@yahoo.com;wharsb@yahoo.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "ULTRA-TUNE SDN BHD",
+                    "address": "NO.27 JALAN PEMBERITA U1/49, TEMASYA IND. PARK, SECTION U1, GLENMARIE, 40150 SHAH ALAM, Selangor Darul Ehsan",
+                    "phone": "03-76202238",
+                    "fax": "03-76201638",
+                    "email": "info@ultratune.com.my;tkgan@ultratune.com.my",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "RASA SOON FATT WORKSHOP SDN BHD",
+                    "address": "2280, BATU 34, JALAN IPOH, 44200 RASA, SELANGOR",
+                    "phone": "",
+                    "fax": "",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                }
+            ]
+        },
+        {
+            "name": "Terengganu",
+            "places": [
+                {
+                    "name": "YOONG LEE CAR-TECH SDN BHD",
+                    "address": "PT 2138K, Kawasan Perindustrian Chendering, 21080, Kuala Terengganu, Terengganu",
+                    "phone": "09 6171407/ 096170407/ 096172407",
+                    "fax": "09 6175407",
+                    "email": "yoonglee01@yahoo.com.my",
+                    "lat": "5.269596",
+                    "lon": "103.163942"
+                },
+                {
+                    "name": "KEONG WORKSHOP (TERENGGANU) SDN BHD",
+                    "address": "PT2989, Kawasan Perindustrian Chendering, Kuala Terengganu, 21080 Terengganu",
+                    "phone": "09 617 1198/ 096172198",
+                    "fax": "09 6170198",
+                    "email": "keongtrg@gmail.com",
+                    "lat": "5.093634",
+                    "lon": "102.989615"
+                },
+                {
+                    "name": "BENGKEL YEOW LEE HIN SDN BHD",
+                    "address": "Lot A-38, Kawasan Perindustrian Chendering, 21080, Kuala Terengganu, Terengganu",
+                    "phone": "09 6171913",
+                    "fax": "09-6171913",
+                    "email": "ylhs6@tm.net.my",
+                    "lat": "5.269595",
+                    "lon": "103.163956"
+                },
+                {
+                    "name": "EAST COAST SPRAY & REPAIR SDN BHD",
+                    "address": "7, Lot 5820, Kawasan Perindustrian Jakar II, 24000 Chukia Kemaman, Terengganu",
+                    "phone": "09 8595228/ 098585788",
+                    "fax": "09 8591246",
+                    "email": "estcoastsr@gmail.com",
+                    "lat": "4.249368",
+                    "lon": "103.421238"
+                },
+                {
+                    "name": "BENGKEL KERETA KEMAMAN SDN BHD",
+                    "address": "Lot 10026, Kawasan Perindustrian Jakar II, 24000, Kemaman Terengganu",
+                    "phone": "09 8592067/ 098596067",
+                    "fax": "09 8593677",
+                    "email": "bkk_spray@hotmail.com",
+                    "lat": "4.215949",
+                    "lon": "103.427095"
+                },
+                {
+                    "name": "SOON HING WORKSHOP SDN BHD",
+                    "address": "Pt 2750, Jalan Padang Luas, Besut, 22000, Besut, Terengganu",
+                    "phone": "09 697 1406/ 096971496",
+                    "fax": "09 6971496",
+                    "email": "soon_hing2750@yahoo.com.my",
+                    "lat": "5.718759",
+                    "lon": "102.501149"
+                },
+                {
+                    "name": "BRIGSTONE AUTO MAJU WORKSHOP SDN BHD",
+                    "address": "Lot 3048, Batu 5 1/2, Jalan Paka, 23000, Dungun, Terengganu",
+                    "phone": "09 8453803",
+                    "fax": "09 8453801",
+                    "email": "automaju88@gmail.com",
+                    "lat": "4.712538",
+                    "lon": "103.411211"
+                }
+            ]
+        },
+        {
+            "name": "Wilayah Persekutuan",
+            "places": [
+                {
+                    "name": "WTF AUTO SERVICES SDN BHD",
+                    "address": "No.23A, Jalan Empat, Off  Jalan Chan Sow Lin, 55200, Kuala Lumpur",
+                    "phone": "03 92213997",
+                    "fax": "0392217996",
+                    "email": "",
+                    "lat": "3.116691",
+                    "lon": "101.713205"
+                },
+                {
+                    "name": "WING YEE MOTOR SDN BHD",
+                    "address": "Lot 3689-A, Jalan Segambut, Batu 4 1/2, Segambut, 51200, Kuala Lumpur",
+                    "phone": "03 62575250/ 0362576260",
+                    "fax": "03-62574379",
+                    "email": "winyee@po.jaring,my",
+                    "lat": "3.18904",
+                    "lon": "101.66442"
+                },
+                {
+                    "name": "WENG HUP MOTOR WORKS SDN BHD",
+                    "address": "No.1, Jalan 10/108C, Taman Sungai Besi, 57100, Kuala Lumpur",
+                    "phone": "03 7981 5807/ 0379824805",
+                    "fax": "0370823964",
+                    "email": "wenghup@po.jaring.my",
+                    "lat": "3.094539",
+                    "lon": "101.700139"
+                },
+                {
+                    "name": "SYARIKAT THONG HING MOTOR SDN. BHD.",
+                    "address": "557, 3 1/2 Miles, Jalan Ipoh, 51200, Kuala Lumpur",
+                    "phone": "03 62512828",
+                    "fax": "03 62513639",
+                    "email": "thmotor@hotmail.com",
+                    "lat": "3.19056",
+                    "lon": "101.68072"
+                },
+                {
+                    "name": "SYARIKAT KONG WAH AUTO SDN BHD",
+                    "address": "No. 446, Batu 2 1/2 Jalan Ipoh, 51200, Kuala Lumpur",
+                    "phone": "03 40411268/ 0340431242",
+                    "fax": "03-40430288",
+                    "email": "shw11268@tm.net.my",
+                    "lat": "3.215307",
+                    "lon": "101.672035"
+                },
+                {
+                    "name": "KEE CHEONG AUTO SDN BHD",
+                    "address": "Lot 9 Jalan Perusahaan Kiri, Kawasan Perusahaan Ringan, 53200, Setapak, Kuala Lumpur",
+                    "phone": "03 4022 2428/ 0340222899",
+                    "fax": "03 40224425",
+                    "email": "twl8938@yahoo.com",
+                    "lat": "3.196691",
+                    "lon": "101.715691"
+                },
+                {
+                    "name": "CD CAR CARE SDN BHD",
+                    "address": "NO 233 – L, JALAN GOMBAK BATU 4, 53000 KUALA LUMPUR",
+                    "phone": "03-40248366",
+                    "fax": "03-40247366",
+                    "email": "cdcarcare@gmail.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "JOO AUTO WORKS SDN BHD",
+                    "address": "No 1, Jalan Helang Hindik, Kawasan Industri Kepong Baru, 51200 Kepong Baru, Kuala Lumpur",
+                    "phone": "03 62570889/ 0362777748",
+                    "fax": "0362720889",
+                    "email": "jooauto1217@gmail.com",
+                    "lat": "3.187019",
+                    "lon": "101.662"
+                },
+                {
+                    "name": "HUA HONG AUTO SDN BHD",
+                    "address": "No. 3 & 5, Jalan Sibu 17, Taman Wahyu, Off Jalan Kuching, 68100 Kuala Lumpur",
+                    "phone": "03 6253 4252/ 0122894252/ 0122248983",
+                    "fax": "03 6251 4252",
+                    "email": "hua_hong3@hotmail.com",
+                    "lat": "3.201292",
+                    "lon": "101.612428"
+                },
+                {
+                    "name": "HOONG WAI AUTO REPAIRS SDN BHD",
+                    "address": "No. 208, Jalan 1, Taman Industri Ehsan Jaya, Taman Ehsan, Kepong, 52100, Wilayah Persekutuan Kuala Lumpur",
+                    "phone": "03 62752998/ 0362726275",
+                    "fax": "0362768998",
+                    "email": "hoong_wai@yahoo.com",
+                    "lat": "3.211811",
+                    "lon": "101.621459"
+                },
+                {
+                    "name": "HONG HENG AUTOREPAIRS SDN BHD",
+                    "address": "No. 1 Jalan 8/155, Bukit OUG, Bukit Jalil Industrial, 58200, Kuala Lumpur",
+                    "phone": "03 77825948",
+                    "fax": "03-7783 7948",
+                    "email": "",
+                    "lat": "3.086411",
+                    "lon": "101.67239"
+                },
+                {
+                    "name": "HO SIN FAH MOTOR SDN BHD",
+                    "address": "No 22 Jalan Kilang Midah, Taman Midah, 56000 Kuala Lumpur",
+                    "phone": "03 9171 1037/0391711250",
+                    "fax": "03 91745065",
+                    "email": "",
+                    "lat": "3.202112",
+                    "lon": "101.703041"
+                },
+                {
+                    "name": "FASLINE AUTO ENGINEERING SDN BHD",
+                    "address": "Lot 5746, Yee Seng Goddown 12, 4 1/2 Miles, Jalan Klang Lama, 58000 Kuala Lumpur",
+                    "phone": "03 79830493/ 0379820329",
+                    "fax": "0379834973",
+                    "email": "fasline@gmail.com",
+                    "lat": "3.089533,",
+                    "lon": "101.674696"
+                },
+                {
+                    "name": "BENGKEL KERETA RELIANCE SDN BHD",
+                    "address": "29, Lot 337, Seksyen 92, Jalan 2, Chan Sow Lin, 55200, Wilayah Persekutuan Kuala Lumpur",
+                    "phone": "03 92218488/ 0392216488/ 0399215488/ 0392216162",
+                    "fax": "03-9221 2478",
+                    "email": "btsoo@relianceautokl.com",
+                    "lat": "3.12081",
+                    "lon": "101.715329"
+                },
+                {
+                    "name": "CB MOTOR EHSAN JAYA SDN BHD",
+                    "address": "No 217, Jalan 1,, Taman Perindustrian Ehsan Jaya, 52100 Kuala Lumpur",
+                    "phone": "03-62771050",
+                    "fax": "03-62771060",
+                    "email": "cbmotor012@gmail.com",
+                    "lat": "",
+                    "lon": ""
+                },
+                {
+                    "name": "CMS CARS EXPRESS SDN BHD",
+                    "address": "NO 8,10,12 JALAN USJ 7/3, UEP SUBANG JAYA, 47600 SUBANG JAYA, SELANGOR",
+                    "phone": "03 356367414",
+                    "fax": "03 356378502",
+                    "email": "cmsspray@streamyx.com",
+                    "lat": "3.049304",
+                    "lon": "101.592008"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "places": [
+                {
+                    "name": "",
+                    "address": "",
+                    "phone": "",
+                    "fax": "",
+                    "email": "",
+                    "lat": "",
+                    "lon": ""
+                }
+            ]
+        }
+    ]
+}
