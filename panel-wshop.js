@@ -1,3 +1,4 @@
+
 var fs = require('fs'),
 		Excel = require('exceljs'),
 		filename = process.argv[2],
@@ -80,6 +81,7 @@ workbook.xlsx.readFile(filename)
   });
 
 function getSheet(id) {
+	console.log("trigger 1")
 	var worksheet = workbook.getWorksheet(id);
 	worksheet.eachRow(function(row, rowNumber) {
 		if (rowNumber === 1) return;
@@ -101,18 +103,20 @@ function getSheet(id) {
     			b ? email+= '/' + a.text : email = a.text.split(';')[0]; 
     		});
     }
-
-    states[state]['places'].push({
+    console.log(states[state]['places'])
+    if(states[state]['places']){
+    	states[state]['places'].push({
     	name: values[dataMap.name],
     	address: values[dataMap.address],
     	phone: values[dataMap.phone] !== undefined ? values[dataMap.phone].toString() : '',
     	fax: values[dataMap.fax] !== undefined ? values[dataMap.fax].toString() : '',
-    	email: email,
+    	email: email !== undefined ? values[dataMap.lat].toString() : '',
     	lat: values[dataMap.lat] !== undefined ? values[dataMap.lat].toString() : '',
     	lon: values[dataMap.long] !== undefined ? values[dataMap.long].toString() : ''
-    });
-    if ((rowNumber + 1) === worksheet.rowCount) {
-			createJSON();
+	    });
+	    if ((rowNumber + 1) === worksheet.rowCount) {
+				createJSON();
+	    }
     }
 	});
 }
